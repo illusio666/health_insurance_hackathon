@@ -1,0 +1,1338 @@
+,Age,Age range,Sex,Bmi,Bmi range,Children,Family status,Smoker,Region,Charges,Bmi rounded,Charges rounded
+0,19,18-29,Female,27.9,Overweight,0,No Children,Yes,Southwest,16884.924,27.9,16884.92
+1,18,18-29,Male,33.77,Obesity,1,Has Children,No,Southeast,1725.5523,33.8,1725.55
+2,28,18-29,Male,33.0,Obesity,3,Has Children,No,Southeast,4449.462,33.0,4449.46
+3,33,30-44,Male,22.705,Normal weight,0,No Children,No,Northwest,21984.47061,22.7,21984.47
+4,32,30-44,Male,28.88,Overweight,0,No Children,No,Northwest,3866.8552,28.9,3866.86
+5,31,30-44,Female,25.74,Overweight,0,No Children,No,Southeast,3756.6216,25.7,3756.62
+6,46,45-59,Female,33.44,Obesity,1,Has Children,No,Southeast,8240.5896,33.4,8240.59
+7,37,30-44,Female,27.74,Overweight,3,Has Children,No,Northwest,7281.5056,27.7,7281.51
+8,37,30-44,Male,29.83,Overweight,2,Has Children,No,Northeast,6406.4107,29.8,6406.41
+9,60,60+,Female,25.84,Overweight,0,No Children,No,Northwest,28923.13692,25.8,28923.14
+10,25,18-29,Male,26.22,Overweight,0,No Children,No,Northeast,2721.3208,26.2,2721.32
+11,62,60+,Female,26.29,Overweight,0,No Children,Yes,Southeast,27808.7251,26.3,27808.73
+12,23,18-29,Male,34.4,Obesity,0,No Children,No,Southwest,1826.843,34.4,1826.84
+13,56,45-59,Female,39.82,Obesity,0,No Children,No,Southeast,11090.7178,39.8,11090.72
+14,27,18-29,Male,42.13,Obesity,0,No Children,Yes,Southeast,39611.7577,42.1,39611.76
+15,19,18-29,Male,24.6,Normal weight,1,Has Children,No,Southwest,1837.237,24.6,1837.24
+16,52,45-59,Female,30.78,Obesity,1,Has Children,No,Northeast,10797.3362,30.8,10797.34
+17,23,18-29,Male,23.845,Normal weight,0,No Children,No,Northeast,2395.17155,23.8,2395.17
+18,56,45-59,Male,40.3,Obesity,0,No Children,No,Southwest,10602.385,40.3,10602.38
+19,30,30-44,Male,35.3,Obesity,0,No Children,Yes,Southwest,36837.467,35.3,36837.47
+20,60,60+,Female,36.005,Obesity,0,No Children,No,Northeast,13228.84695,36.0,13228.85
+21,30,30-44,Female,32.4,Obesity,1,Has Children,No,Southwest,4149.736,32.4,4149.74
+22,18,18-29,Male,34.1,Obesity,0,No Children,No,Southeast,1137.011,34.1,1137.01
+23,34,30-44,Female,31.92,Obesity,1,Has Children,Yes,Northeast,37701.8768,31.9,37701.88
+24,37,30-44,Male,28.025,Overweight,2,Has Children,No,Northwest,6203.90175,28.0,6203.9
+25,59,45-59,Female,27.72,Overweight,3,Has Children,No,Southeast,14001.1338,27.7,14001.13
+26,63,60+,Female,23.085,Normal weight,0,No Children,No,Northeast,14451.83515,23.1,14451.84
+27,55,45-59,Female,32.775,Obesity,2,Has Children,No,Northwest,12268.63225,32.8,12268.63
+28,23,18-29,Male,17.385,Underweight,1,Has Children,No,Northwest,2775.19215,17.4,2775.19
+29,31,30-44,Male,36.3,Obesity,2,Has Children,Yes,Southwest,38711.0,36.3,38711.0
+30,22,18-29,Male,35.6,Obesity,0,No Children,Yes,Southwest,35585.576,35.6,35585.58
+31,18,18-29,Female,26.315,Overweight,0,No Children,No,Northeast,2198.18985,26.3,2198.19
+32,19,18-29,Female,28.6,Overweight,5,Has Children,No,Southwest,4687.797,28.6,4687.8
+33,63,60+,Male,28.31,Overweight,0,No Children,No,Northwest,13770.0979,28.3,13770.1
+34,28,18-29,Male,36.4,Obesity,1,Has Children,Yes,Southwest,51194.55914,36.4,51194.56
+35,19,18-29,Male,20.425,Normal weight,0,No Children,No,Northwest,1625.43375,20.4,1625.43
+36,62,60+,Female,32.965,Obesity,3,Has Children,No,Northwest,15612.19335,33.0,15612.19
+37,26,18-29,Male,20.8,Normal weight,0,No Children,No,Southwest,2302.3,20.8,2302.3
+38,35,30-44,Male,36.67,Obesity,1,Has Children,Yes,Northeast,39774.2763,36.7,39774.28
+39,60,60+,Male,39.9,Obesity,0,No Children,Yes,Southwest,48173.361,39.9,48173.36
+40,24,18-29,Female,26.6,Overweight,0,No Children,No,Northeast,3046.062,26.6,3046.06
+41,31,30-44,Female,36.63,Obesity,2,Has Children,No,Southeast,4949.7587,36.6,4949.76
+42,41,30-44,Male,21.78,Normal weight,1,Has Children,No,Southeast,6272.4772,21.8,6272.48
+43,37,30-44,Female,30.8,Obesity,2,Has Children,No,Southeast,6313.759,30.8,6313.76
+44,38,30-44,Male,37.05,Obesity,1,Has Children,No,Northeast,6079.6715,37.0,6079.67
+45,55,45-59,Male,37.3,Obesity,0,No Children,No,Southwest,20630.28351,37.3,20630.28
+46,18,18-29,Female,38.665,Obesity,2,Has Children,No,Northeast,3393.35635,38.7,3393.36
+47,28,18-29,Female,34.77,Obesity,0,No Children,No,Northwest,3556.9223,34.8,3556.92
+48,60,60+,Female,24.53,Normal weight,0,No Children,No,Southeast,12629.8967,24.5,12629.9
+49,36,30-44,Male,35.2,Obesity,1,Has Children,Yes,Southeast,38709.176,35.2,38709.18
+50,18,18-29,Female,35.625,Obesity,0,No Children,No,Northeast,2211.13075,35.6,2211.13
+51,21,18-29,Female,33.63,Obesity,2,Has Children,No,Northwest,3579.8287,33.6,3579.83
+52,48,45-59,Male,28.0,Overweight,1,Has Children,Yes,Southwest,23568.272,28.0,23568.27
+53,36,30-44,Male,34.43,Obesity,0,No Children,Yes,Southeast,37742.5757,34.4,37742.58
+54,40,30-44,Female,28.69,Overweight,3,Has Children,No,Northwest,8059.6791,28.7,8059.68
+55,58,45-59,Male,36.955,Obesity,2,Has Children,Yes,Northwest,47496.49445,37.0,47496.49
+56,58,45-59,Female,31.825,Obesity,2,Has Children,No,Northeast,13607.36875,31.8,13607.37
+57,18,18-29,Male,31.68,Obesity,2,Has Children,Yes,Southeast,34303.1672,31.7,34303.17
+58,53,45-59,Female,22.88,Normal weight,1,Has Children,Yes,Southeast,23244.7902,22.9,23244.79
+59,34,30-44,Female,37.335,Obesity,2,Has Children,No,Northwest,5989.52365,37.3,5989.52
+60,43,30-44,Male,27.36,Overweight,3,Has Children,No,Northeast,8606.2174,27.4,8606.22
+61,25,18-29,Male,33.66,Obesity,4,Has Children,No,Southeast,4504.6624,33.7,4504.66
+62,64,60+,Male,24.7,Normal weight,1,Has Children,No,Northwest,30166.61817,24.7,30166.62
+63,28,18-29,Female,25.935,Overweight,1,Has Children,No,Northwest,4133.64165,25.9,4133.64
+64,20,18-29,Female,22.42,Normal weight,0,No Children,Yes,Northwest,14711.7438,22.4,14711.74
+65,19,18-29,Female,28.9,Overweight,0,No Children,No,Southwest,1743.214,28.9,1743.21
+66,61,60+,Female,39.1,Obesity,2,Has Children,No,Southwest,14235.072,39.1,14235.07
+67,40,30-44,Male,26.315,Overweight,1,Has Children,No,Northwest,6389.37785,26.3,6389.38
+68,40,30-44,Female,36.19,Obesity,0,No Children,No,Southeast,5920.1041,36.2,5920.1
+69,28,18-29,Male,23.98,Normal weight,3,Has Children,Yes,Southeast,17663.1442,24.0,17663.14
+70,27,18-29,Female,24.75,Normal weight,0,No Children,Yes,Southeast,16577.7795,24.8,16577.78
+71,31,30-44,Male,28.5,Overweight,5,Has Children,No,Northeast,6799.458,28.5,6799.46
+72,53,45-59,Female,28.1,Overweight,3,Has Children,No,Southwest,11741.726,28.1,11741.73
+73,58,45-59,Male,32.01,Obesity,1,Has Children,No,Southeast,11946.6259,32.0,11946.63
+74,44,30-44,Male,27.4,Overweight,2,Has Children,No,Southwest,7726.854,27.4,7726.85
+75,57,45-59,Male,34.01,Obesity,0,No Children,No,Northwest,11356.6609,34.0,11356.66
+76,29,18-29,Female,29.59,Overweight,1,Has Children,No,Southeast,3947.4131,29.6,3947.41
+77,21,18-29,Male,35.53,Obesity,0,No Children,No,Southeast,1532.4697,35.5,1532.47
+78,22,18-29,Female,39.805,Obesity,0,No Children,No,Northeast,2755.02095,39.8,2755.02
+79,41,30-44,Female,32.965,Obesity,0,No Children,No,Northwest,6571.02435,33.0,6571.02
+80,31,30-44,Male,26.885,Overweight,1,Has Children,No,Northeast,4441.21315,26.9,4441.21
+81,45,45-59,Female,38.285,Obesity,0,No Children,No,Northeast,7935.29115,38.3,7935.29
+82,22,18-29,Male,37.62,Obesity,1,Has Children,Yes,Southeast,37165.1638,37.6,37165.16
+83,48,45-59,Female,41.23,Obesity,4,Has Children,No,Northwest,11033.6617,41.2,11033.66
+84,37,30-44,Female,34.8,Obesity,2,Has Children,Yes,Southwest,39836.519,34.8,39836.52
+85,45,45-59,Male,22.895,Normal weight,2,Has Children,Yes,Northwest,21098.55405,22.9,21098.55
+86,57,45-59,Female,31.16,Obesity,0,No Children,Yes,Northwest,43578.9394,31.2,43578.94
+87,56,45-59,Female,27.2,Overweight,0,No Children,No,Southwest,11073.176,27.2,11073.18
+88,46,45-59,Female,27.74,Overweight,0,No Children,No,Northwest,8026.6666,27.7,8026.67
+89,55,45-59,Female,26.98,Overweight,0,No Children,No,Northwest,11082.5772,27.0,11082.58
+90,21,18-29,Female,39.49,Obesity,0,No Children,No,Southeast,2026.9741,39.5,2026.97
+91,53,45-59,Female,24.795,Normal weight,1,Has Children,No,Northwest,10942.13205,24.8,10942.13
+92,59,45-59,Male,29.83,Overweight,3,Has Children,Yes,Northeast,30184.9367,29.8,30184.94
+93,35,30-44,Male,34.77,Obesity,2,Has Children,No,Northwest,5729.0053,34.8,5729.01
+94,64,60+,Female,31.3,Obesity,2,Has Children,Yes,Southwest,47291.055,31.3,47291.06
+95,28,18-29,Female,37.62,Obesity,1,Has Children,No,Southeast,3766.8838,37.6,3766.88
+96,54,45-59,Female,30.8,Obesity,3,Has Children,No,Southwest,12105.32,30.8,12105.32
+97,55,45-59,Male,38.28,Obesity,0,No Children,No,Southeast,10226.2842,38.3,10226.28
+98,56,45-59,Male,19.95,Normal weight,0,No Children,Yes,Northeast,22412.6485,20.0,22412.65
+99,38,30-44,Male,19.3,Normal weight,0,No Children,Yes,Southwest,15820.699,19.3,15820.7
+100,41,30-44,Female,31.6,Obesity,0,No Children,No,Southwest,6186.127,31.6,6186.13
+101,30,30-44,Male,25.46,Overweight,0,No Children,No,Northeast,3645.0894,25.5,3645.09
+102,18,18-29,Female,30.115,Obesity,0,No Children,No,Northeast,21344.8467,30.1,21344.85
+103,61,60+,Female,29.92,Obesity,3,Has Children,Yes,Southeast,30942.1918,29.9,30942.19
+104,34,30-44,Female,27.5,Overweight,1,Has Children,No,Southwest,5003.853,27.5,5003.85
+105,20,18-29,Male,28.025,Overweight,1,Has Children,Yes,Northwest,17560.37975,28.0,17560.38
+106,19,18-29,Female,28.4,Overweight,1,Has Children,No,Southwest,2331.519,28.4,2331.52
+107,26,18-29,Male,30.875,Obesity,2,Has Children,No,Northwest,3877.30425,30.9,3877.3
+108,29,18-29,Male,27.94,Overweight,0,No Children,No,Southeast,2867.1196,27.9,2867.12
+109,63,60+,Male,35.09,Obesity,0,No Children,Yes,Southeast,47055.5321,35.1,47055.53
+110,54,45-59,Male,33.63,Obesity,1,Has Children,No,Northwest,10825.2537,33.6,10825.25
+111,55,45-59,Female,29.7,Overweight,2,Has Children,No,Southwest,11881.358,29.7,11881.36
+112,37,30-44,Male,30.8,Obesity,0,No Children,No,Southwest,4646.759,30.8,4646.76
+113,21,18-29,Female,35.72,Obesity,0,No Children,No,Northwest,2404.7338,35.7,2404.73
+114,52,45-59,Male,32.205,Obesity,3,Has Children,No,Northeast,11488.31695,32.2,11488.32
+115,60,60+,Male,28.595,Overweight,0,No Children,No,Northeast,30259.99556,28.6,30260.0
+116,58,45-59,Male,49.06,Obesity,0,No Children,No,Southeast,11381.3254,49.1,11381.33
+117,29,18-29,Female,27.94,Overweight,1,Has Children,Yes,Southeast,19107.7796,27.9,19107.78
+118,49,45-59,Female,27.17,Overweight,0,No Children,No,Southeast,8601.3293,27.2,8601.33
+119,37,30-44,Female,23.37,Normal weight,2,Has Children,No,Northwest,6686.4313,23.4,6686.43
+120,44,30-44,Male,37.1,Obesity,2,Has Children,No,Southwest,7740.337,37.1,7740.34
+121,18,18-29,Male,23.75,Normal weight,0,No Children,No,Northeast,1705.6245,23.8,1705.62
+122,20,18-29,Female,28.975,Overweight,0,No Children,No,Northwest,2257.47525,29.0,2257.48
+123,44,30-44,Male,31.35,Obesity,1,Has Children,Yes,Northeast,39556.4945,31.4,39556.49
+124,47,45-59,Female,33.915,Obesity,3,Has Children,No,Northwest,10115.00885,33.9,10115.01
+125,26,18-29,Female,28.785,Overweight,0,No Children,No,Northeast,3385.39915,28.8,3385.4
+126,19,18-29,Female,28.3,Overweight,0,No Children,Yes,Southwest,17081.08,28.3,17081.08
+127,52,45-59,Female,37.4,Obesity,0,No Children,No,Southwest,9634.538,37.4,9634.54
+128,32,30-44,Female,17.765,Underweight,2,Has Children,Yes,Northwest,32734.1863,17.8,32734.19
+129,38,30-44,Male,34.7,Obesity,2,Has Children,No,Southwest,6082.405,34.7,6082.4
+130,59,45-59,Female,26.505,Overweight,0,No Children,No,Northeast,12815.44495,26.5,12815.44
+131,61,60+,Female,22.04,Normal weight,0,No Children,No,Northeast,13616.3586,22.0,13616.36
+132,53,45-59,Female,35.9,Obesity,2,Has Children,No,Southwest,11163.568,35.9,11163.57
+133,19,18-29,Male,25.555,Overweight,0,No Children,No,Northwest,1632.56445,25.6,1632.56
+134,20,18-29,Female,28.785,Overweight,0,No Children,No,Northeast,2457.21115,28.8,2457.21
+135,22,18-29,Female,28.05,Overweight,0,No Children,No,Southeast,2155.6815,28.0,2155.68
+136,19,18-29,Male,34.1,Obesity,0,No Children,No,Southwest,1261.442,34.1,1261.44
+137,22,18-29,Male,25.175,Overweight,0,No Children,No,Northwest,2045.68525,25.2,2045.69
+138,54,45-59,Female,31.9,Obesity,3,Has Children,No,Southeast,27322.73386,31.9,27322.73
+139,22,18-29,Female,36.0,Obesity,0,No Children,No,Southwest,2166.732,36.0,2166.73
+140,34,30-44,Male,22.42,Normal weight,2,Has Children,No,Northeast,27375.90478,22.4,27375.9
+141,26,18-29,Male,32.49,Obesity,1,Has Children,No,Northeast,3490.5491,32.5,3490.55
+142,34,30-44,Male,25.3,Overweight,2,Has Children,Yes,Southeast,18972.495,25.3,18972.5
+143,29,18-29,Male,29.735,Overweight,2,Has Children,No,Northwest,18157.876,29.7,18157.88
+144,30,30-44,Male,28.69,Overweight,3,Has Children,Yes,Northwest,20745.9891,28.7,20745.99
+145,29,18-29,Female,38.83,Obesity,3,Has Children,No,Southeast,5138.2567,38.8,5138.26
+146,46,45-59,Male,30.495,Obesity,3,Has Children,Yes,Northwest,40720.55105,30.5,40720.55
+147,51,45-59,Female,37.73,Obesity,1,Has Children,No,Southeast,9877.6077,37.7,9877.61
+148,53,45-59,Female,37.43,Obesity,1,Has Children,No,Northwest,10959.6947,37.4,10959.69
+149,19,18-29,Male,28.4,Overweight,1,Has Children,No,Southwest,1842.519,28.4,1842.52
+150,35,30-44,Male,24.13,Normal weight,1,Has Children,No,Northwest,5125.2157,24.1,5125.22
+151,48,45-59,Male,29.7,Overweight,0,No Children,No,Southeast,7789.635,29.7,7789.64
+152,32,30-44,Female,37.145,Obesity,3,Has Children,No,Northeast,6334.34355,37.1,6334.34
+153,42,30-44,Female,23.37,Normal weight,0,No Children,Yes,Northeast,19964.7463,23.4,19964.75
+154,40,30-44,Female,25.46,Overweight,1,Has Children,No,Northeast,7077.1894,25.5,7077.19
+155,44,30-44,Male,39.52,Obesity,0,No Children,No,Northwest,6948.7008,39.5,6948.7
+156,48,45-59,Male,24.42,Normal weight,0,No Children,Yes,Southeast,21223.6758,24.4,21223.68
+157,18,18-29,Male,25.175,Overweight,0,No Children,Yes,Northeast,15518.18025,25.2,15518.18
+158,30,30-44,Male,35.53,Obesity,0,No Children,Yes,Southeast,36950.2567,35.5,36950.26
+159,50,45-59,Female,27.83,Overweight,3,Has Children,No,Southeast,19749.38338,27.8,19749.38
+160,42,30-44,Female,26.6,Overweight,0,No Children,Yes,Northwest,21348.706,26.6,21348.71
+161,18,18-29,Female,36.85,Obesity,0,No Children,Yes,Southeast,36149.4835,36.8,36149.48
+162,54,45-59,Male,39.6,Obesity,1,Has Children,No,Southwest,10450.552,39.6,10450.55
+163,32,30-44,Female,29.8,Overweight,2,Has Children,No,Southwest,5152.134,29.8,5152.13
+164,37,30-44,Male,29.64,Overweight,0,No Children,No,Northwest,5028.1466,29.6,5028.15
+165,47,45-59,Male,28.215,Overweight,4,Has Children,No,Northeast,10407.08585,28.2,10407.09
+166,20,18-29,Female,37.0,Obesity,5,Has Children,No,Southwest,4830.63,37.0,4830.63
+167,32,30-44,Female,33.155,Obesity,3,Has Children,No,Northwest,6128.79745,33.2,6128.8
+168,19,18-29,Female,31.825,Obesity,1,Has Children,No,Northwest,2719.27975,31.8,2719.28
+169,27,18-29,Male,18.905,Normal weight,3,Has Children,No,Northeast,4827.90495,18.9,4827.9
+170,63,60+,Male,41.47,Obesity,0,No Children,No,Southeast,13405.3903,41.5,13405.39
+171,49,45-59,Male,30.3,Obesity,0,No Children,No,Southwest,8116.68,30.3,8116.68
+172,18,18-29,Male,15.96,Underweight,0,No Children,No,Northeast,1694.7964,16.0,1694.8
+173,35,30-44,Female,34.8,Obesity,1,Has Children,No,Southwest,5246.047,34.8,5246.05
+174,24,18-29,Female,33.345,Obesity,0,No Children,No,Northwest,2855.43755,33.3,2855.44
+175,63,60+,Female,37.7,Obesity,0,No Children,Yes,Southwest,48824.45,37.7,48824.45
+176,38,30-44,Male,27.835,Overweight,2,Has Children,No,Northwest,6455.86265,27.8,6455.86
+177,54,45-59,Male,29.2,Overweight,1,Has Children,No,Southwest,10436.096,29.2,10436.1
+178,46,45-59,Female,28.9,Overweight,2,Has Children,No,Southwest,8823.279,28.9,8823.28
+179,41,30-44,Female,33.155,Obesity,3,Has Children,No,Northeast,8538.28845,33.2,8538.29
+180,58,45-59,Male,28.595,Overweight,0,No Children,No,Northwest,11735.87905,28.6,11735.88
+181,18,18-29,Female,38.28,Obesity,0,No Children,No,Southeast,1631.8212,38.3,1631.82
+182,22,18-29,Male,19.95,Normal weight,3,Has Children,No,Northeast,4005.4225,20.0,4005.42
+183,44,30-44,Female,26.41,Overweight,0,No Children,No,Northwest,7419.4779,26.4,7419.48
+184,44,30-44,Male,30.69,Obesity,2,Has Children,No,Southeast,7731.4271,30.7,7731.43
+185,36,30-44,Male,41.895,Obesity,3,Has Children,Yes,Northeast,43753.33705,41.9,43753.34
+186,26,18-29,Female,29.92,Obesity,2,Has Children,No,Southeast,3981.9768,29.9,3981.98
+187,30,30-44,Female,30.9,Obesity,3,Has Children,No,Southwest,5325.651,30.9,5325.65
+188,41,30-44,Female,32.2,Obesity,1,Has Children,No,Southwest,6775.961,32.2,6775.96
+189,29,18-29,Female,32.11,Obesity,2,Has Children,No,Northwest,4922.9159,32.1,4922.92
+190,61,60+,Male,31.57,Obesity,0,No Children,No,Southeast,12557.6053,31.6,12557.61
+191,36,30-44,Female,26.2,Overweight,0,No Children,No,Southwest,4883.866,26.2,4883.87
+192,25,18-29,Male,25.74,Overweight,0,No Children,No,Southeast,2137.6536,25.7,2137.65
+193,56,45-59,Female,26.6,Overweight,1,Has Children,No,Northwest,12044.342,26.6,12044.34
+194,18,18-29,Male,34.43,Obesity,0,No Children,No,Southeast,1137.4697,34.4,1137.47
+195,19,18-29,Male,30.59,Obesity,0,No Children,No,Northwest,1639.5631,30.6,1639.56
+196,39,30-44,Female,32.8,Obesity,0,No Children,No,Southwest,5649.715,32.8,5649.72
+197,45,45-59,Female,28.6,Overweight,2,Has Children,No,Southeast,8516.829,28.6,8516.83
+198,51,45-59,Female,18.05,Underweight,0,No Children,No,Northwest,9644.2525,18.0,9644.25
+199,64,60+,Female,39.33,Obesity,0,No Children,No,Northeast,14901.5167,39.3,14901.52
+200,19,18-29,Female,32.11,Obesity,0,No Children,No,Northwest,2130.6759,32.1,2130.68
+201,48,45-59,Female,32.23,Obesity,1,Has Children,No,Southeast,8871.1517,32.2,8871.15
+202,60,60+,Female,24.035,Normal weight,0,No Children,No,Northwest,13012.20865,24.0,13012.21
+203,27,18-29,Female,36.08,Obesity,0,No Children,Yes,Southeast,37133.8982,36.1,37133.9
+204,46,45-59,Male,22.3,Normal weight,0,No Children,No,Southwest,7147.105,22.3,7147.1
+205,28,18-29,Female,28.88,Overweight,1,Has Children,No,Northeast,4337.7352,28.9,4337.74
+206,59,45-59,Male,26.4,Overweight,0,No Children,No,Southeast,11743.299,26.4,11743.3
+207,35,30-44,Male,27.74,Overweight,2,Has Children,Yes,Northeast,20984.0936,27.7,20984.09
+208,63,60+,Female,31.8,Obesity,0,No Children,No,Southwest,13880.949,31.8,13880.95
+209,40,30-44,Male,41.23,Obesity,1,Has Children,No,Northeast,6610.1097,41.2,6610.11
+210,20,18-29,Male,33.0,Obesity,1,Has Children,No,Southwest,1980.07,33.0,1980.07
+211,40,30-44,Male,30.875,Obesity,4,Has Children,No,Northwest,8162.71625,30.9,8162.72
+212,24,18-29,Male,28.5,Overweight,2,Has Children,No,Northwest,3537.703,28.5,3537.7
+213,34,30-44,Female,26.73,Overweight,1,Has Children,No,Southeast,5002.7827,26.7,5002.78
+214,45,45-59,Female,30.9,Obesity,2,Has Children,No,Southwest,8520.026,30.9,8520.03
+215,41,30-44,Female,37.1,Obesity,2,Has Children,No,Southwest,7371.772,37.1,7371.77
+216,53,45-59,Female,26.6,Overweight,0,No Children,No,Northwest,10355.641,26.6,10355.64
+217,27,18-29,Male,23.1,Normal weight,0,No Children,No,Southeast,2483.736,23.1,2483.74
+218,26,18-29,Female,29.92,Obesity,1,Has Children,No,Southeast,3392.9768,29.9,3392.98
+219,24,18-29,Female,23.21,Normal weight,0,No Children,No,Southeast,25081.76784,23.2,25081.77
+220,34,30-44,Female,33.7,Obesity,1,Has Children,No,Southwest,5012.471,33.7,5012.47
+221,53,45-59,Female,33.25,Obesity,0,No Children,No,Northeast,10564.8845,33.2,10564.88
+222,32,30-44,Male,30.8,Obesity,3,Has Children,No,Southwest,5253.524,30.8,5253.52
+223,19,18-29,Male,34.8,Obesity,0,No Children,Yes,Southwest,34779.615,34.8,34779.62
+224,42,30-44,Male,24.64,Normal weight,0,No Children,Yes,Southeast,19515.5416,24.6,19515.54
+225,55,45-59,Male,33.88,Obesity,3,Has Children,No,Southeast,11987.1682,33.9,11987.17
+226,28,18-29,Male,38.06,Obesity,0,No Children,No,Southeast,2689.4954,38.1,2689.5
+227,58,45-59,Female,41.91,Obesity,0,No Children,No,Southeast,24227.33724,41.9,24227.34
+228,41,30-44,Female,31.635,Obesity,1,Has Children,No,Northeast,7358.17565,31.6,7358.18
+229,47,45-59,Male,25.46,Overweight,2,Has Children,No,Northeast,9225.2564,25.5,9225.26
+230,42,30-44,Female,36.195,Obesity,1,Has Children,No,Northwest,7443.64305,36.2,7443.64
+231,59,45-59,Female,27.83,Overweight,3,Has Children,No,Southeast,14001.2867,27.8,14001.29
+232,19,18-29,Female,17.8,Underweight,0,No Children,No,Southwest,1727.785,17.8,1727.78
+233,59,45-59,Male,27.5,Overweight,1,Has Children,No,Southwest,12333.828,27.5,12333.83
+234,39,30-44,Male,24.51,Normal weight,2,Has Children,No,Northwest,6710.1919,24.5,6710.19
+235,40,30-44,Female,22.22,Normal weight,2,Has Children,Yes,Southeast,19444.2658,22.2,19444.27
+236,18,18-29,Female,26.73,Overweight,0,No Children,No,Southeast,1615.7667,26.7,1615.77
+237,31,30-44,Male,38.39,Obesity,2,Has Children,No,Southeast,4463.2051,38.4,4463.21
+238,19,18-29,Male,29.07,Overweight,0,No Children,Yes,Northwest,17352.6803,29.1,17352.68
+239,44,30-44,Male,38.06,Obesity,1,Has Children,No,Southeast,7152.6714,38.1,7152.67
+240,23,18-29,Female,36.67,Obesity,2,Has Children,Yes,Northeast,38511.6283,36.7,38511.63
+241,33,30-44,Female,22.135,Normal weight,1,Has Children,No,Northeast,5354.07465,22.1,5354.07
+242,55,45-59,Female,26.8,Overweight,1,Has Children,No,Southwest,35160.13457,26.8,35160.13
+243,40,30-44,Male,35.3,Obesity,3,Has Children,No,Southwest,7196.867,35.3,7196.87
+244,63,60+,Female,27.74,Overweight,0,No Children,Yes,Northeast,29523.1656,27.7,29523.17
+245,54,45-59,Male,30.02,Obesity,0,No Children,No,Northwest,24476.47851,30.0,24476.48
+246,60,60+,Female,38.06,Obesity,0,No Children,No,Southeast,12648.7034,38.1,12648.7
+247,24,18-29,Male,35.86,Obesity,0,No Children,No,Southeast,1986.9334,35.9,1986.93
+248,19,18-29,Male,20.9,Normal weight,1,Has Children,No,Southwest,1832.094,20.9,1832.09
+249,29,18-29,Male,28.975,Overweight,1,Has Children,No,Northeast,4040.55825,29.0,4040.56
+250,18,18-29,Male,17.29,Underweight,2,Has Children,Yes,Northeast,12829.4551,17.3,12829.46
+251,63,60+,Female,32.2,Obesity,2,Has Children,Yes,Southwest,47305.305,32.2,47305.3
+252,54,45-59,Male,34.21,Obesity,2,Has Children,Yes,Southeast,44260.7499,34.2,44260.75
+253,27,18-29,Male,30.3,Obesity,3,Has Children,No,Southwest,4260.744,30.3,4260.74
+254,50,45-59,Male,31.825,Obesity,0,No Children,Yes,Northeast,41097.16175,31.8,41097.16
+255,55,45-59,Female,25.365,Overweight,3,Has Children,No,Northeast,13047.33235,25.4,13047.33
+256,56,45-59,Male,33.63,Obesity,0,No Children,Yes,Northwest,43921.1837,33.6,43921.18
+257,38,30-44,Female,40.15,Obesity,0,No Children,No,Southeast,5400.9805,40.2,5400.98
+258,51,45-59,Male,24.415,Normal weight,4,Has Children,No,Northwest,11520.09985,24.4,11520.1
+259,19,18-29,Male,31.92,Obesity,0,No Children,Yes,Northwest,33750.2918,31.9,33750.29
+260,58,45-59,Female,25.2,Overweight,0,No Children,No,Southwest,11837.16,25.2,11837.16
+261,20,18-29,Female,26.84,Overweight,1,Has Children,Yes,Southeast,17085.2676,26.8,17085.27
+262,52,45-59,Male,24.32,Normal weight,3,Has Children,Yes,Northeast,24869.8368,24.3,24869.84
+263,19,18-29,Male,36.955,Obesity,0,No Children,Yes,Northwest,36219.40545,37.0,36219.41
+264,53,45-59,Female,38.06,Obesity,3,Has Children,No,Southeast,20462.99766,38.1,20463.0
+265,46,45-59,Male,42.35,Obesity,3,Has Children,Yes,Southeast,46151.1245,42.4,46151.12
+266,40,30-44,Male,19.8,Normal weight,1,Has Children,Yes,Southeast,17179.522,19.8,17179.52
+267,59,45-59,Female,32.395,Obesity,3,Has Children,No,Northeast,14590.63205,32.4,14590.63
+268,45,45-59,Male,30.2,Obesity,1,Has Children,No,Southwest,7441.053,30.2,7441.05
+269,49,45-59,Male,25.84,Overweight,1,Has Children,No,Northeast,9282.4806,25.8,9282.48
+270,18,18-29,Male,29.37,Overweight,1,Has Children,No,Southeast,1719.4363,29.4,1719.44
+271,50,45-59,Male,34.2,Obesity,2,Has Children,Yes,Southwest,42856.838,34.2,42856.84
+272,41,30-44,Male,37.05,Obesity,2,Has Children,No,Northwest,7265.7025,37.0,7265.7
+273,50,45-59,Male,27.455,Overweight,1,Has Children,No,Northeast,9617.66245,27.5,9617.66
+274,25,18-29,Male,27.55,Overweight,0,No Children,No,Northwest,2523.1695,27.6,2523.17
+275,47,45-59,Female,26.6,Overweight,2,Has Children,No,Northeast,9715.841,26.6,9715.84
+276,19,18-29,Male,20.615,Normal weight,2,Has Children,No,Northwest,2803.69785,20.6,2803.7
+277,22,18-29,Female,24.3,Normal weight,0,No Children,No,Southwest,2150.469,24.3,2150.47
+278,59,45-59,Male,31.79,Obesity,2,Has Children,No,Southeast,12928.7911,31.8,12928.79
+279,51,45-59,Female,21.56,Normal weight,1,Has Children,No,Southeast,9855.1314,21.6,9855.13
+280,40,30-44,Female,28.12,Overweight,1,Has Children,Yes,Northeast,22331.5668,28.1,22331.57
+281,54,45-59,Male,40.565,Obesity,3,Has Children,Yes,Northeast,48549.17835,40.6,48549.18
+282,30,30-44,Male,27.645,Overweight,1,Has Children,No,Northeast,4237.12655,27.6,4237.13
+283,55,45-59,Female,32.395,Obesity,1,Has Children,No,Northeast,11879.10405,32.4,11879.1
+284,52,45-59,Female,31.2,Obesity,0,No Children,No,Southwest,9625.92,31.2,9625.92
+285,46,45-59,Male,26.62,Overweight,1,Has Children,No,Southeast,7742.1098,26.6,7742.11
+286,46,45-59,Female,48.07,Obesity,2,Has Children,No,Northeast,9432.9253,48.1,9432.93
+287,63,60+,Female,26.22,Overweight,0,No Children,No,Northwest,14256.1928,26.2,14256.19
+288,59,45-59,Female,36.765,Obesity,1,Has Children,Yes,Northeast,47896.79135,36.8,47896.79
+289,52,45-59,Male,26.4,Overweight,3,Has Children,No,Southeast,25992.82104,26.4,25992.82
+290,28,18-29,Female,33.4,Obesity,0,No Children,No,Southwest,3172.018,33.4,3172.02
+291,29,18-29,Male,29.64,Overweight,1,Has Children,No,Northeast,20277.80751,29.6,20277.81
+292,25,18-29,Male,45.54,Obesity,2,Has Children,Yes,Southeast,42112.2356,45.5,42112.24
+293,22,18-29,Female,28.82,Overweight,0,No Children,No,Southeast,2156.7518,28.8,2156.75
+294,25,18-29,Male,26.8,Overweight,3,Has Children,No,Southwest,3906.127,26.8,3906.13
+295,18,18-29,Male,22.99,Normal weight,0,No Children,No,Northeast,1704.5681,23.0,1704.57
+296,19,18-29,Male,27.7,Overweight,0,No Children,Yes,Southwest,16297.846,27.7,16297.85
+297,47,45-59,Male,25.41,Overweight,1,Has Children,Yes,Southeast,21978.6769,25.4,21978.68
+298,31,30-44,Male,34.39,Obesity,3,Has Children,Yes,Northwest,38746.3551,34.4,38746.36
+299,48,45-59,Female,28.88,Overweight,1,Has Children,No,Northwest,9249.4952,28.9,9249.5
+300,36,30-44,Male,27.55,Overweight,3,Has Children,No,Northeast,6746.7425,27.6,6746.74
+301,53,45-59,Female,22.61,Normal weight,3,Has Children,Yes,Northeast,24873.3849,22.6,24873.38
+302,56,45-59,Female,37.51,Obesity,2,Has Children,No,Southeast,12265.5069,37.5,12265.51
+303,28,18-29,Female,33.0,Obesity,2,Has Children,No,Southeast,4349.462,33.0,4349.46
+304,57,45-59,Female,38.0,Obesity,2,Has Children,No,Southwest,12646.207,38.0,12646.21
+305,29,18-29,Male,33.345,Obesity,2,Has Children,No,Northwest,19442.3535,33.3,19442.35
+306,28,18-29,Female,27.5,Overweight,2,Has Children,No,Southwest,20177.67113,27.5,20177.67
+307,30,30-44,Female,33.33,Obesity,1,Has Children,No,Southeast,4151.0287,33.3,4151.03
+308,58,45-59,Male,34.865,Obesity,0,No Children,No,Northeast,11944.59435,34.9,11944.59
+309,41,30-44,Female,33.06,Obesity,2,Has Children,No,Northwest,7749.1564,33.1,7749.16
+310,50,45-59,Male,26.6,Overweight,0,No Children,No,Southwest,8444.474,26.6,8444.47
+311,19,18-29,Female,24.7,Normal weight,0,No Children,No,Southwest,1737.376,24.7,1737.38
+312,43,30-44,Male,35.97,Obesity,3,Has Children,Yes,Southeast,42124.5153,36.0,42124.52
+313,49,45-59,Male,35.86,Obesity,0,No Children,No,Southeast,8124.4084,35.9,8124.41
+314,27,18-29,Female,31.4,Obesity,0,No Children,Yes,Southwest,34838.873,31.4,34838.87
+315,52,45-59,Male,33.25,Obesity,0,No Children,No,Northeast,9722.7695,33.2,9722.77
+316,50,45-59,Male,32.205,Obesity,0,No Children,No,Northwest,8835.26495,32.2,8835.26
+317,54,45-59,Male,32.775,Obesity,0,No Children,No,Northeast,10435.06525,32.8,10435.07
+318,44,30-44,Female,27.645,Overweight,0,No Children,No,Northwest,7421.19455,27.6,7421.19
+319,32,30-44,Male,37.335,Obesity,1,Has Children,No,Northeast,4667.60765,37.3,4667.61
+320,34,30-44,Male,25.27,Overweight,1,Has Children,No,Northwest,4894.7533,25.3,4894.75
+321,26,18-29,Female,29.64,Overweight,4,Has Children,No,Northeast,24671.66334,29.6,24671.66
+322,34,30-44,Male,30.8,Obesity,0,No Children,Yes,Southwest,35491.64,30.8,35491.64
+323,57,45-59,Male,40.945,Obesity,0,No Children,No,Northeast,11566.30055,40.9,11566.3
+324,29,18-29,Male,27.2,Overweight,0,No Children,No,Southwest,2866.091,27.2,2866.09
+325,40,30-44,Male,34.105,Obesity,1,Has Children,No,Northeast,6600.20595,34.1,6600.21
+326,27,18-29,Female,23.21,Normal weight,1,Has Children,No,Southeast,3561.8889,23.2,3561.89
+327,45,45-59,Male,36.48,Obesity,2,Has Children,Yes,Northwest,42760.5022,36.5,42760.5
+328,64,60+,Female,33.8,Obesity,1,Has Children,Yes,Southwest,47928.03,33.8,47928.03
+329,52,45-59,Male,36.7,Obesity,0,No Children,No,Southwest,9144.565,36.7,9144.56
+330,61,60+,Female,36.385,Obesity,1,Has Children,Yes,Northeast,48517.56315,36.4,48517.56
+331,52,45-59,Male,27.36,Overweight,0,No Children,Yes,Northwest,24393.6224,27.4,24393.62
+332,61,60+,Female,31.16,Obesity,0,No Children,No,Northwest,13429.0354,31.2,13429.04
+333,56,45-59,Female,28.785,Overweight,0,No Children,No,Northeast,11658.37915,28.8,11658.38
+334,43,30-44,Female,35.72,Obesity,2,Has Children,No,Northeast,19144.57652,35.7,19144.58
+335,64,60+,Male,34.5,Obesity,0,No Children,No,Southwest,13822.803,34.5,13822.8
+336,60,60+,Male,25.74,Overweight,0,No Children,No,Southeast,12142.5786,25.7,12142.58
+337,62,60+,Male,27.55,Overweight,1,Has Children,No,Northwest,13937.6665,27.6,13937.67
+338,50,45-59,Male,32.3,Obesity,1,Has Children,Yes,Northeast,41919.097,32.3,41919.1
+339,46,45-59,Female,27.72,Overweight,1,Has Children,No,Southeast,8232.6388,27.7,8232.64
+340,24,18-29,Female,27.6,Overweight,0,No Children,No,Southwest,18955.22017,27.6,18955.22
+341,62,60+,Male,30.02,Obesity,0,No Children,No,Northwest,13352.0998,30.0,13352.1
+342,60,60+,Female,27.55,Overweight,0,No Children,No,Northeast,13217.0945,27.6,13217.09
+343,63,60+,Male,36.765,Obesity,0,No Children,No,Northeast,13981.85035,36.8,13981.85
+344,49,45-59,Female,41.47,Obesity,4,Has Children,No,Southeast,10977.2063,41.5,10977.21
+345,34,30-44,Female,29.26,Overweight,3,Has Children,No,Southeast,6184.2994,29.3,6184.3
+346,33,30-44,Male,35.75,Obesity,2,Has Children,No,Southeast,4889.9995,35.8,4890.0
+347,46,45-59,Male,33.345,Obesity,1,Has Children,No,Northeast,8334.45755,33.3,8334.46
+348,36,30-44,Female,29.92,Obesity,1,Has Children,No,Southeast,5478.0368,29.9,5478.04
+349,19,18-29,Male,27.835,Overweight,0,No Children,No,Northwest,1635.73365,27.8,1635.73
+350,57,45-59,Female,23.18,Normal weight,0,No Children,No,Northwest,11830.6072,23.2,11830.61
+351,50,45-59,Female,25.6,Overweight,0,No Children,No,Southwest,8932.084,25.6,8932.08
+352,30,30-44,Female,27.7,Overweight,0,No Children,No,Southwest,3554.203,27.7,3554.2
+353,33,30-44,Male,35.245,Obesity,0,No Children,No,Northeast,12404.8791,35.2,12404.88
+354,18,18-29,Female,38.28,Obesity,0,No Children,No,Southeast,14133.03775,38.3,14133.04
+355,46,45-59,Male,27.6,Overweight,0,No Children,No,Southwest,24603.04837,27.6,24603.05
+356,46,45-59,Male,43.89,Obesity,3,Has Children,No,Southeast,8944.1151,43.9,8944.12
+357,47,45-59,Male,29.83,Overweight,3,Has Children,No,Northwest,9620.3307,29.8,9620.33
+358,23,18-29,Male,41.91,Obesity,0,No Children,No,Southeast,1837.2819,41.9,1837.28
+359,18,18-29,Female,20.79,Normal weight,0,No Children,No,Southeast,1607.5101,20.8,1607.51
+360,48,45-59,Female,32.3,Obesity,2,Has Children,No,Northeast,10043.249,32.3,10043.25
+361,35,30-44,Male,30.5,Obesity,1,Has Children,No,Southwest,4751.07,30.5,4751.07
+362,19,18-29,Female,21.7,Normal weight,0,No Children,Yes,Southwest,13844.506,21.7,13844.51
+363,21,18-29,Female,26.4,Overweight,1,Has Children,No,Southwest,2597.779,26.4,2597.78
+364,21,18-29,Female,21.89,Normal weight,2,Has Children,No,Southeast,3180.5101,21.9,3180.51
+365,49,45-59,Female,30.78,Obesity,1,Has Children,No,Northeast,9778.3472,30.8,9778.35
+366,56,45-59,Female,32.3,Obesity,3,Has Children,No,Northeast,13430.265,32.3,13430.26
+367,42,30-44,Female,24.985,Overweight,2,Has Children,No,Northwest,8017.06115,25.0,8017.06
+368,44,30-44,Male,32.015,Obesity,2,Has Children,No,Northwest,8116.26885,32.0,8116.27
+369,18,18-29,Male,30.4,Obesity,3,Has Children,No,Northeast,3481.868,30.4,3481.87
+370,61,60+,Female,21.09,Normal weight,0,No Children,No,Northwest,13415.0381,21.1,13415.04
+371,57,45-59,Female,22.23,Normal weight,0,No Children,No,Northeast,12029.2867,22.2,12029.29
+372,42,30-44,Female,33.155,Obesity,1,Has Children,No,Northeast,7639.41745,33.2,7639.42
+373,26,18-29,Male,32.9,Obesity,2,Has Children,Yes,Southwest,36085.219,32.9,36085.22
+374,20,18-29,Male,33.33,Obesity,0,No Children,No,Southeast,1391.5287,33.3,1391.53
+375,23,18-29,Female,28.31,Overweight,0,No Children,Yes,Northwest,18033.9679,28.3,18033.97
+376,39,30-44,Female,24.89,Normal weight,3,Has Children,Yes,Northeast,21659.9301,24.9,21659.93
+377,24,18-29,Male,40.15,Obesity,0,No Children,Yes,Southeast,38126.2465,40.2,38126.25
+378,64,60+,Female,30.115,Obesity,3,Has Children,No,Northwest,16455.70785,30.1,16455.71
+379,62,60+,Male,31.46,Obesity,1,Has Children,No,Southeast,27000.98473,31.5,27000.98
+380,27,18-29,Female,17.955,Underweight,2,Has Children,Yes,Northeast,15006.57945,18.0,15006.58
+381,55,45-59,Male,30.685,Obesity,0,No Children,Yes,Northeast,42303.69215,30.7,42303.69
+382,55,45-59,Male,33.0,Obesity,0,No Children,No,Southeast,20781.48892,33.0,20781.49
+383,35,30-44,Female,43.34,Obesity,2,Has Children,No,Southeast,5846.9176,43.3,5846.92
+384,44,30-44,Male,22.135,Normal weight,2,Has Children,No,Northeast,8302.53565,22.1,8302.54
+385,19,18-29,Male,34.4,Obesity,0,No Children,No,Southwest,1261.859,34.4,1261.86
+386,58,45-59,Female,39.05,Obesity,0,No Children,No,Southeast,11856.4115,39.0,11856.41
+387,50,45-59,Male,25.365,Overweight,2,Has Children,No,Northwest,30284.64294,25.4,30284.64
+388,26,18-29,Female,22.61,Normal weight,0,No Children,No,Northwest,3176.8159,22.6,3176.82
+389,24,18-29,Female,30.21,Obesity,3,Has Children,No,Northwest,4618.0799,30.2,4618.08
+390,48,45-59,Male,35.625,Obesity,4,Has Children,No,Northeast,10736.87075,35.6,10736.87
+391,19,18-29,Female,37.43,Obesity,0,No Children,No,Northwest,2138.0707,37.4,2138.07
+392,48,45-59,Male,31.445,Obesity,1,Has Children,No,Northeast,8964.06055,31.4,8964.06
+393,49,45-59,Male,31.35,Obesity,1,Has Children,No,Northeast,9290.1395,31.4,9290.14
+394,46,45-59,Female,32.3,Obesity,2,Has Children,No,Northeast,9411.005,32.3,9411.0
+395,46,45-59,Male,19.855,Normal weight,0,No Children,No,Northwest,7526.70645,19.9,7526.71
+396,43,30-44,Female,34.4,Obesity,3,Has Children,No,Southwest,8522.003,34.4,8522.0
+397,21,18-29,Male,31.02,Obesity,0,No Children,No,Southeast,16586.49771,31.0,16586.5
+398,64,60+,Male,25.6,Overweight,2,Has Children,No,Southwest,14988.432,25.6,14988.43
+399,18,18-29,Female,38.17,Obesity,0,No Children,No,Southeast,1631.6683,38.2,1631.67
+400,51,45-59,Female,20.6,Normal weight,0,No Children,No,Southwest,9264.797,20.6,9264.8
+401,47,45-59,Male,47.52,Obesity,1,Has Children,No,Southeast,8083.9198,47.5,8083.92
+402,64,60+,Female,32.965,Obesity,0,No Children,No,Northwest,14692.66935,33.0,14692.67
+403,49,45-59,Male,32.3,Obesity,3,Has Children,No,Northwest,10269.46,32.3,10269.46
+404,31,30-44,Male,20.4,Normal weight,0,No Children,No,Southwest,3260.199,20.4,3260.2
+405,52,45-59,Female,38.38,Obesity,2,Has Children,No,Northeast,11396.9002,38.4,11396.9
+406,33,30-44,Female,24.31,Normal weight,0,No Children,No,Southeast,4185.0979,24.3,4185.1
+407,47,45-59,Female,23.6,Normal weight,1,Has Children,No,Southwest,8539.671,23.6,8539.67
+408,38,30-44,Male,21.12,Normal weight,3,Has Children,No,Southeast,6652.5288,21.1,6652.53
+409,32,30-44,Male,30.03,Obesity,1,Has Children,No,Southeast,4074.4537,30.0,4074.45
+410,19,18-29,Male,17.48,Underweight,0,No Children,No,Northwest,1621.3402,17.5,1621.34
+411,44,30-44,Female,20.235,Normal weight,1,Has Children,Yes,Northeast,19594.80965,20.2,19594.81
+412,26,18-29,Female,17.195,Underweight,2,Has Children,Yes,Northeast,14455.64405,17.2,14455.64
+413,25,18-29,Male,23.9,Normal weight,5,Has Children,No,Southwest,5080.096,23.9,5080.1
+414,19,18-29,Female,35.15,Obesity,0,No Children,No,Northwest,2134.9015,35.2,2134.9
+415,43,30-44,Female,35.64,Obesity,1,Has Children,No,Southeast,7345.7266,35.6,7345.73
+416,52,45-59,Male,34.1,Obesity,0,No Children,No,Southeast,9140.951,34.1,9140.95
+417,36,30-44,Female,22.6,Normal weight,2,Has Children,Yes,Southwest,18608.262,22.6,18608.26
+418,64,60+,Male,39.16,Obesity,1,Has Children,No,Southeast,14418.2804,39.2,14418.28
+419,63,60+,Female,26.98,Overweight,0,No Children,Yes,Northwest,28950.4692,27.0,28950.47
+420,64,60+,Male,33.88,Obesity,0,No Children,Yes,Southeast,46889.2612,33.9,46889.26
+421,61,60+,Male,35.86,Obesity,0,No Children,Yes,Southeast,46599.1084,35.9,46599.11
+422,40,30-44,Male,32.775,Obesity,1,Has Children,Yes,Northeast,39125.33225,32.8,39125.33
+423,25,18-29,Male,30.59,Obesity,0,No Children,No,Northeast,2727.3951,30.6,2727.4
+424,48,45-59,Male,30.2,Obesity,2,Has Children,No,Southwest,8968.33,30.2,8968.33
+425,45,45-59,Male,24.31,Normal weight,5,Has Children,No,Southeast,9788.8659,24.3,9788.87
+426,38,30-44,Female,27.265,Overweight,1,Has Children,No,Northeast,6555.07035,27.3,6555.07
+427,18,18-29,Female,29.165,Overweight,0,No Children,No,Northeast,7323.734819,29.2,7323.73
+428,21,18-29,Female,16.815,Underweight,1,Has Children,No,Northeast,3167.45585,16.8,3167.46
+429,27,18-29,Female,30.4,Obesity,3,Has Children,No,Northwest,18804.7524,30.4,18804.75
+430,19,18-29,Male,33.1,Obesity,0,No Children,No,Southwest,23082.95533,33.1,23082.96
+431,29,18-29,Female,20.235,Normal weight,2,Has Children,No,Northwest,4906.40965,20.2,4906.41
+432,42,30-44,Male,26.9,Overweight,0,No Children,No,Southwest,5969.723,26.9,5969.72
+433,60,60+,Female,30.5,Obesity,0,No Children,No,Southwest,12638.195,30.5,12638.2
+434,31,30-44,Male,28.595,Overweight,1,Has Children,No,Northwest,4243.59005,28.6,4243.59
+435,60,60+,Male,33.11,Obesity,3,Has Children,No,Southeast,13919.8229,33.1,13919.82
+436,22,18-29,Male,31.73,Obesity,0,No Children,No,Northeast,2254.7967,31.7,2254.8
+437,35,30-44,Male,28.9,Overweight,3,Has Children,No,Southwest,5926.846,28.9,5926.85
+438,52,45-59,Female,46.75,Obesity,5,Has Children,No,Southeast,12592.5345,46.8,12592.53
+439,26,18-29,Male,29.45,Overweight,0,No Children,No,Northeast,2897.3235,29.4,2897.32
+440,31,30-44,Female,32.68,Obesity,1,Has Children,No,Northwest,4738.2682,32.7,4738.27
+441,33,30-44,Female,33.5,Obesity,0,No Children,Yes,Southwest,37079.372,33.5,37079.37
+442,18,18-29,Male,43.01,Obesity,0,No Children,No,Southeast,1149.3959,43.0,1149.4
+443,59,45-59,Female,36.52,Obesity,1,Has Children,No,Southeast,28287.89766,36.5,28287.9
+444,56,45-59,Male,26.695,Overweight,1,Has Children,Yes,Northwest,26109.32905,26.7,26109.33
+445,45,45-59,Female,33.1,Obesity,0,No Children,No,Southwest,7345.084,33.1,7345.08
+446,60,60+,Male,29.64,Overweight,0,No Children,No,Northeast,12730.9996,29.6,12731.0
+447,56,45-59,Female,25.65,Overweight,0,No Children,No,Northwest,11454.0215,25.6,11454.02
+448,40,30-44,Female,29.6,Overweight,0,No Children,No,Southwest,5910.944,29.6,5910.94
+449,35,30-44,Male,38.6,Obesity,1,Has Children,No,Southwest,4762.329,38.6,4762.33
+450,39,30-44,Male,29.6,Overweight,4,Has Children,No,Southwest,7512.267,29.6,7512.27
+451,30,30-44,Male,24.13,Normal weight,1,Has Children,No,Northwest,4032.2407,24.1,4032.24
+452,24,18-29,Male,23.4,Normal weight,0,No Children,No,Southwest,1969.614,23.4,1969.61
+453,20,18-29,Male,29.735,Overweight,0,No Children,No,Northwest,1769.53165,29.7,1769.53
+454,32,30-44,Male,46.53,Obesity,2,Has Children,No,Southeast,4686.3887,46.5,4686.39
+455,59,45-59,Male,37.4,Obesity,0,No Children,No,Southwest,21797.0004,37.4,21797.0
+456,55,45-59,Female,30.14,Obesity,2,Has Children,No,Southeast,11881.9696,30.1,11881.97
+457,57,45-59,Female,30.495,Obesity,0,No Children,No,Northwest,11840.77505,30.5,11840.78
+458,56,45-59,Male,39.6,Obesity,0,No Children,No,Southwest,10601.412,39.6,10601.41
+459,40,30-44,Female,33.0,Obesity,3,Has Children,No,Southeast,7682.67,33.0,7682.67
+460,49,45-59,Female,36.63,Obesity,3,Has Children,No,Southeast,10381.4787,36.6,10381.48
+461,42,30-44,Male,30.0,Obesity,0,No Children,Yes,Southwest,22144.032,30.0,22144.03
+462,62,60+,Female,38.095,Obesity,2,Has Children,No,Northeast,15230.32405,38.1,15230.32
+463,56,45-59,Male,25.935,Overweight,0,No Children,No,Northeast,11165.41765,25.9,11165.42
+464,19,18-29,Male,25.175,Overweight,0,No Children,No,Northwest,1632.03625,25.2,1632.04
+465,30,30-44,Female,28.38,Overweight,1,Has Children,Yes,Southeast,19521.9682,28.4,19521.97
+466,60,60+,Female,28.7,Overweight,1,Has Children,No,Southwest,13224.693,28.7,13224.69
+467,56,45-59,Female,33.82,Obesity,2,Has Children,No,Northwest,12643.3778,33.8,12643.38
+468,28,18-29,Female,24.32,Normal weight,1,Has Children,No,Northeast,23288.9284,24.3,23288.93
+469,18,18-29,Female,24.09,Normal weight,1,Has Children,No,Southeast,2201.0971,24.1,2201.1
+470,27,18-29,Male,32.67,Obesity,0,No Children,No,Southeast,2497.0383,32.7,2497.04
+471,18,18-29,Female,30.115,Obesity,0,No Children,No,Northeast,2203.47185,30.1,2203.47
+472,19,18-29,Female,29.8,Overweight,0,No Children,No,Southwest,1744.465,29.8,1744.46
+473,47,45-59,Female,33.345,Obesity,0,No Children,No,Northeast,20878.78443,33.3,20878.78
+474,54,45-59,Male,25.1,Overweight,3,Has Children,Yes,Southwest,25382.297,25.1,25382.3
+475,61,60+,Male,28.31,Overweight,1,Has Children,Yes,Northwest,28868.6639,28.3,28868.66
+476,24,18-29,Male,28.5,Overweight,0,No Children,Yes,Northeast,35147.52848,28.5,35147.53
+477,25,18-29,Male,35.625,Obesity,0,No Children,No,Northwest,2534.39375,35.6,2534.39
+478,21,18-29,Male,36.85,Obesity,0,No Children,No,Southeast,1534.3045,36.8,1534.3
+479,23,18-29,Male,32.56,Obesity,0,No Children,No,Southeast,1824.2854,32.6,1824.29
+480,63,60+,Male,41.325,Obesity,3,Has Children,No,Northwest,15555.18875,41.3,15555.19
+481,49,45-59,Male,37.51,Obesity,2,Has Children,No,Southeast,9304.7019,37.5,9304.7
+482,18,18-29,Female,31.35,Obesity,0,No Children,No,Southeast,1622.1885,31.4,1622.19
+483,51,45-59,Female,39.5,Obesity,1,Has Children,No,Southwest,9880.068,39.5,9880.07
+484,48,45-59,Male,34.3,Obesity,3,Has Children,No,Southwest,9563.029,34.3,9563.03
+485,31,30-44,Female,31.065,Obesity,0,No Children,No,Northeast,4347.02335,31.1,4347.02
+486,54,45-59,Female,21.47,Normal weight,3,Has Children,No,Northwest,12475.3513,21.5,12475.35
+487,19,18-29,Male,28.7,Overweight,0,No Children,No,Southwest,1253.936,28.7,1253.94
+488,44,30-44,Female,38.06,Obesity,0,No Children,Yes,Southeast,48885.13561,38.1,48885.14
+489,53,45-59,Male,31.16,Obesity,1,Has Children,No,Northwest,10461.9794,31.2,10461.98
+490,19,18-29,Female,32.9,Obesity,0,No Children,No,Southwest,1748.774,32.9,1748.77
+491,61,60+,Female,25.08,Overweight,0,No Children,No,Southeast,24513.09126,25.1,24513.09
+492,18,18-29,Female,25.08,Overweight,0,No Children,No,Northeast,2196.4732,25.1,2196.47
+493,61,60+,Male,43.4,Obesity,0,No Children,No,Southwest,12574.049,43.4,12574.05
+494,21,18-29,Male,25.7,Overweight,4,Has Children,Yes,Southwest,17942.106,25.7,17942.11
+495,20,18-29,Male,27.93,Overweight,0,No Children,No,Northeast,1967.0227,27.9,1967.02
+496,31,30-44,Female,23.6,Normal weight,2,Has Children,No,Southwest,4931.647,23.6,4931.65
+497,45,45-59,Male,28.7,Overweight,2,Has Children,No,Southwest,8027.968,28.7,8027.97
+498,44,30-44,Female,23.98,Normal weight,2,Has Children,No,Southeast,8211.1002,24.0,8211.1
+499,62,60+,Female,39.2,Obesity,0,No Children,No,Southwest,13470.86,39.2,13470.86
+500,29,18-29,Male,34.4,Obesity,0,No Children,Yes,Southwest,36197.699,34.4,36197.7
+501,43,30-44,Male,26.03,Overweight,0,No Children,No,Northeast,6837.3687,26.0,6837.37
+502,51,45-59,Male,23.21,Normal weight,1,Has Children,Yes,Southeast,22218.1149,23.2,22218.11
+503,19,18-29,Male,30.25,Obesity,0,No Children,Yes,Southeast,32548.3405,30.2,32548.34
+504,38,30-44,Female,28.93,Overweight,1,Has Children,No,Southeast,5974.3847,28.9,5974.38
+505,37,30-44,Male,30.875,Obesity,3,Has Children,No,Northwest,6796.86325,30.9,6796.86
+506,22,18-29,Male,31.35,Obesity,1,Has Children,No,Northwest,2643.2685,31.4,2643.27
+507,21,18-29,Male,23.75,Normal weight,2,Has Children,No,Northwest,3077.0955,23.8,3077.1
+508,24,18-29,Female,25.27,Overweight,0,No Children,No,Northeast,3044.2133,25.3,3044.21
+509,57,45-59,Female,28.7,Overweight,0,No Children,No,Southwest,11455.28,28.7,11455.28
+510,56,45-59,Male,32.11,Obesity,1,Has Children,No,Northeast,11763.0009,32.1,11763.0
+511,27,18-29,Male,33.66,Obesity,0,No Children,No,Southeast,2498.4144,33.7,2498.41
+512,51,45-59,Male,22.42,Normal weight,0,No Children,No,Northeast,9361.3268,22.4,9361.33
+513,19,18-29,Male,30.4,Obesity,0,No Children,No,Southwest,1256.299,30.4,1256.3
+514,39,30-44,Male,28.3,Overweight,1,Has Children,Yes,Southwest,21082.16,28.3,21082.16
+515,58,45-59,Male,35.7,Obesity,0,No Children,No,Southwest,11362.755,35.7,11362.76
+516,20,18-29,Male,35.31,Obesity,1,Has Children,No,Southeast,27724.28875,35.3,27724.29
+517,45,45-59,Male,30.495,Obesity,2,Has Children,No,Northwest,8413.46305,30.5,8413.46
+518,35,30-44,Female,31.0,Obesity,1,Has Children,No,Southwest,5240.765,31.0,5240.77
+519,31,30-44,Male,30.875,Obesity,0,No Children,No,Northeast,3857.75925,30.9,3857.76
+520,50,45-59,Female,27.36,Overweight,0,No Children,No,Northeast,25656.57526,27.4,25656.58
+521,32,30-44,Female,44.22,Obesity,0,No Children,No,Southeast,3994.1778,44.2,3994.18
+522,51,45-59,Female,33.915,Obesity,0,No Children,No,Northeast,9866.30485,33.9,9866.3
+523,38,30-44,Female,37.73,Obesity,0,No Children,No,Southeast,5397.6167,37.7,5397.62
+524,42,30-44,Male,26.07,Overweight,1,Has Children,Yes,Southeast,38245.59327,26.1,38245.59
+525,18,18-29,Female,33.88,Obesity,0,No Children,No,Southeast,11482.63485,33.9,11482.63
+526,19,18-29,Female,30.59,Obesity,2,Has Children,No,Northwest,24059.68019,30.6,24059.68
+527,51,45-59,Female,25.8,Overweight,1,Has Children,No,Southwest,9861.025,25.8,9861.02
+528,46,45-59,Male,39.425,Obesity,1,Has Children,No,Northeast,8342.90875,39.4,8342.91
+529,18,18-29,Male,25.46,Overweight,0,No Children,No,Northeast,1708.0014,25.5,1708.0
+530,57,45-59,Male,42.13,Obesity,1,Has Children,Yes,Southeast,48675.5177,42.1,48675.52
+531,62,60+,Female,31.73,Obesity,0,No Children,No,Northeast,14043.4767,31.7,14043.48
+532,59,45-59,Male,29.7,Overweight,2,Has Children,No,Southeast,12925.886,29.7,12925.89
+533,37,30-44,Male,36.19,Obesity,0,No Children,No,Southeast,19214.70553,36.2,19214.71
+534,64,60+,Male,40.48,Obesity,0,No Children,No,Southeast,13831.1152,40.5,13831.12
+535,38,30-44,Male,28.025,Overweight,1,Has Children,No,Northeast,6067.12675,28.0,6067.13
+536,33,30-44,Female,38.9,Obesity,3,Has Children,No,Southwest,5972.378,38.9,5972.38
+537,46,45-59,Female,30.2,Obesity,2,Has Children,No,Southwest,8825.086,30.2,8825.09
+538,46,45-59,Female,28.05,Overweight,1,Has Children,No,Southeast,8233.0975,28.0,8233.1
+539,53,45-59,Male,31.35,Obesity,0,No Children,No,Southeast,27346.04207,31.4,27346.04
+540,34,30-44,Female,38.0,Obesity,3,Has Children,No,Southwest,6196.448,38.0,6196.45
+541,20,18-29,Female,31.79,Obesity,2,Has Children,No,Southeast,3056.3881,31.8,3056.39
+542,63,60+,Female,36.3,Obesity,0,No Children,No,Southeast,13887.204,36.3,13887.2
+543,54,45-59,Female,47.41,Obesity,0,No Children,Yes,Southeast,63770.42801,47.4,63770.43
+544,54,45-59,Male,30.21,Obesity,0,No Children,No,Northwest,10231.4999,30.2,10231.5
+545,49,45-59,Male,25.84,Overweight,2,Has Children,Yes,Northwest,23807.2406,25.8,23807.24
+546,28,18-29,Male,35.435,Obesity,0,No Children,No,Northeast,3268.84665,35.4,3268.85
+547,54,45-59,Female,46.7,Obesity,2,Has Children,No,Southwest,11538.421,46.7,11538.42
+548,25,18-29,Female,28.595,Overweight,0,No Children,No,Northeast,3213.62205,28.6,3213.62
+549,43,30-44,Female,46.2,Obesity,0,No Children,Yes,Southeast,45863.205,46.2,45863.2
+550,63,60+,Male,30.8,Obesity,0,No Children,No,Southwest,13390.559,30.8,13390.56
+551,32,30-44,Female,28.93,Overweight,0,No Children,No,Southeast,3972.9247,28.9,3972.92
+552,62,60+,Male,21.4,Normal weight,0,No Children,No,Southwest,12957.118,21.4,12957.12
+553,52,45-59,Female,31.73,Obesity,2,Has Children,No,Northwest,11187.6567,31.7,11187.66
+554,25,18-29,Female,41.325,Obesity,0,No Children,No,Northeast,17878.90068,41.3,17878.9
+555,28,18-29,Male,23.8,Normal weight,2,Has Children,No,Southwest,3847.674,23.8,3847.67
+556,46,45-59,Male,33.44,Obesity,1,Has Children,No,Northeast,8334.5896,33.4,8334.59
+557,34,30-44,Male,34.21,Obesity,0,No Children,No,Southeast,3935.1799,34.2,3935.18
+558,35,30-44,Female,34.105,Obesity,3,Has Children,Yes,Northwest,39983.42595,34.1,39983.43
+559,19,18-29,Male,35.53,Obesity,0,No Children,No,Northwest,1646.4297,35.5,1646.43
+560,46,45-59,Female,19.95,Normal weight,2,Has Children,No,Northwest,9193.8385,20.0,9193.84
+561,54,45-59,Female,32.68,Obesity,0,No Children,No,Northeast,10923.9332,32.7,10923.93
+562,27,18-29,Male,30.5,Obesity,0,No Children,No,Southwest,2494.022,30.5,2494.02
+563,50,45-59,Male,44.77,Obesity,1,Has Children,No,Southeast,9058.7303,44.8,9058.73
+564,18,18-29,Female,32.12,Obesity,2,Has Children,No,Southeast,2801.2588,32.1,2801.26
+565,19,18-29,Female,30.495,Obesity,0,No Children,No,Northwest,2128.43105,30.5,2128.43
+566,38,30-44,Female,40.565,Obesity,1,Has Children,No,Northwest,6373.55735,40.6,6373.56
+567,41,30-44,Male,30.59,Obesity,2,Has Children,No,Northwest,7256.7231,30.6,7256.72
+568,49,45-59,Female,31.9,Obesity,5,Has Children,No,Southwest,11552.904,31.9,11552.9
+569,48,45-59,Male,40.565,Obesity,2,Has Children,Yes,Northwest,45702.02235,40.6,45702.02
+570,31,30-44,Female,29.1,Overweight,0,No Children,No,Southwest,3761.292,29.1,3761.29
+571,18,18-29,Female,37.29,Obesity,1,Has Children,No,Southeast,2219.4451,37.3,2219.45
+572,30,30-44,Female,43.12,Obesity,2,Has Children,No,Southeast,4753.6368,43.1,4753.64
+573,62,60+,Female,36.86,Obesity,1,Has Children,No,Northeast,31620.00106,36.9,31620.0
+574,57,45-59,Female,34.295,Obesity,2,Has Children,No,Northeast,13224.05705,34.3,13224.06
+575,58,45-59,Female,27.17,Overweight,0,No Children,No,Northwest,12222.8983,27.2,12222.9
+576,22,18-29,Male,26.84,Overweight,0,No Children,No,Southeast,1664.9996,26.8,1665.0
+577,31,30-44,Female,38.095,Obesity,1,Has Children,Yes,Northeast,58571.07448,38.1,58571.07
+578,52,45-59,Male,30.2,Obesity,1,Has Children,No,Southwest,9724.53,30.2,9724.53
+579,25,18-29,Female,23.465,Normal weight,0,No Children,No,Northeast,3206.49135,23.5,3206.49
+580,59,45-59,Male,25.46,Overweight,1,Has Children,No,Northeast,12913.9924,25.5,12913.99
+582,39,30-44,Male,45.43,Obesity,2,Has Children,No,Southeast,6356.2707,45.4,6356.27
+583,32,30-44,Female,23.65,Normal weight,1,Has Children,No,Southeast,17626.23951,23.6,17626.24
+584,19,18-29,Male,20.7,Normal weight,0,No Children,No,Southwest,1242.816,20.7,1242.82
+585,33,30-44,Female,28.27,Overweight,1,Has Children,No,Southeast,4779.6023,28.3,4779.6
+586,21,18-29,Male,20.235,Normal weight,3,Has Children,No,Northeast,3861.20965,20.2,3861.21
+587,34,30-44,Female,30.21,Obesity,1,Has Children,Yes,Northwest,43943.8761,30.2,43943.88
+588,61,60+,Female,35.91,Obesity,0,No Children,No,Northeast,13635.6379,35.9,13635.64
+589,38,30-44,Female,30.69,Obesity,1,Has Children,No,Southeast,5976.8311,30.7,5976.83
+590,58,45-59,Female,29.0,Overweight,0,No Children,No,Southwest,11842.442,29.0,11842.44
+591,47,45-59,Male,19.57,Normal weight,1,Has Children,No,Northwest,8428.0693,19.6,8428.07
+592,20,18-29,Male,31.13,Obesity,2,Has Children,No,Southeast,2566.4707,31.1,2566.47
+593,21,18-29,Female,21.85,Normal weight,1,Has Children,Yes,Northeast,15359.1045,21.8,15359.1
+594,41,30-44,Male,40.26,Obesity,0,No Children,No,Southeast,5709.1644,40.3,5709.16
+595,46,45-59,Female,33.725,Obesity,1,Has Children,No,Northeast,8823.98575,33.7,8823.99
+596,42,30-44,Female,29.48,Overweight,2,Has Children,No,Southeast,7640.3092,29.5,7640.31
+597,34,30-44,Female,33.25,Obesity,1,Has Children,No,Northeast,5594.8455,33.2,5594.85
+598,43,30-44,Male,32.6,Obesity,2,Has Children,No,Southwest,7441.501,32.6,7441.5
+599,52,45-59,Female,37.525,Obesity,2,Has Children,No,Northwest,33471.97189,37.5,33471.97
+600,18,18-29,Female,39.16,Obesity,0,No Children,No,Southeast,1633.0444,39.2,1633.04
+601,51,45-59,Male,31.635,Obesity,0,No Children,No,Northwest,9174.13565,31.6,9174.14
+602,56,45-59,Female,25.3,Overweight,0,No Children,No,Southwest,11070.535,25.3,11070.54
+603,64,60+,Female,39.05,Obesity,3,Has Children,No,Southeast,16085.1275,39.0,16085.13
+604,19,18-29,Female,28.31,Overweight,0,No Children,Yes,Northwest,17468.9839,28.3,17468.98
+605,51,45-59,Female,34.1,Obesity,0,No Children,No,Southeast,9283.562,34.1,9283.56
+606,27,18-29,Female,25.175,Overweight,0,No Children,No,Northeast,3558.62025,25.2,3558.62
+607,59,45-59,Female,23.655,Normal weight,0,No Children,Yes,Northwest,25678.77845,23.7,25678.78
+608,28,18-29,Male,26.98,Overweight,2,Has Children,No,Northeast,4435.0942,27.0,4435.09
+609,30,30-44,Male,37.8,Obesity,2,Has Children,Yes,Southwest,39241.442,37.8,39241.44
+610,47,45-59,Female,29.37,Overweight,1,Has Children,No,Southeast,8547.6913,29.4,8547.69
+611,38,30-44,Female,34.8,Obesity,2,Has Children,No,Southwest,6571.544,34.8,6571.54
+612,18,18-29,Female,33.155,Obesity,0,No Children,No,Northeast,2207.69745,33.2,2207.7
+613,34,30-44,Female,19.0,Normal weight,3,Has Children,No,Northeast,6753.038,19.0,6753.04
+614,20,18-29,Female,33.0,Obesity,0,No Children,No,Southeast,1880.07,33.0,1880.07
+615,47,45-59,Female,36.63,Obesity,1,Has Children,Yes,Southeast,42969.8527,36.6,42969.85
+616,56,45-59,Female,28.595,Overweight,0,No Children,No,Northeast,11658.11505,28.6,11658.12
+617,49,45-59,Male,25.6,Overweight,2,Has Children,Yes,Southwest,23306.547,25.6,23306.55
+618,19,18-29,Female,33.11,Obesity,0,No Children,Yes,Southeast,34439.8559,33.1,34439.86
+619,55,45-59,Female,37.1,Obesity,0,No Children,No,Southwest,10713.644,37.1,10713.64
+620,30,30-44,Male,31.4,Obesity,1,Has Children,No,Southwest,3659.346,31.4,3659.35
+621,37,30-44,Male,34.1,Obesity,4,Has Children,Yes,Southwest,40182.246,34.1,40182.25
+622,49,45-59,Female,21.3,Normal weight,1,Has Children,No,Southwest,9182.17,21.3,9182.17
+623,18,18-29,Male,33.535,Obesity,0,No Children,Yes,Northeast,34617.84065,33.5,34617.84
+624,59,45-59,Male,28.785,Overweight,0,No Children,No,Northwest,12129.61415,28.8,12129.61
+625,29,18-29,Female,26.03,Overweight,0,No Children,No,Northwest,3736.4647,26.0,3736.46
+626,36,30-44,Male,28.88,Overweight,3,Has Children,No,Northeast,6748.5912,28.9,6748.59
+627,33,30-44,Male,42.46,Obesity,1,Has Children,No,Southeast,11326.71487,42.5,11326.71
+628,58,45-59,Male,38.0,Obesity,0,No Children,No,Southwest,11365.952,38.0,11365.95
+629,44,30-44,Female,38.95,Obesity,0,No Children,Yes,Northwest,42983.4585,39.0,42983.46
+630,53,45-59,Male,36.1,Obesity,1,Has Children,No,Southwest,10085.846,36.1,10085.85
+631,24,18-29,Male,29.3,Overweight,0,No Children,No,Southwest,1977.815,29.3,1977.82
+632,29,18-29,Female,35.53,Obesity,0,No Children,No,Southeast,3366.6697,35.5,3366.67
+633,40,30-44,Male,22.705,Normal weight,2,Has Children,No,Northeast,7173.35995,22.7,7173.36
+634,51,45-59,Male,39.7,Obesity,1,Has Children,No,Southwest,9391.346,39.7,9391.35
+635,64,60+,Male,38.19,Obesity,0,No Children,No,Northeast,14410.9321,38.2,14410.93
+636,19,18-29,Female,24.51,Normal weight,1,Has Children,No,Northwest,2709.1119,24.5,2709.11
+637,35,30-44,Female,38.095,Obesity,2,Has Children,No,Northeast,24915.04626,38.1,24915.05
+638,39,30-44,Male,26.41,Overweight,0,No Children,Yes,Northeast,20149.3229,26.4,20149.32
+639,56,45-59,Male,33.66,Obesity,4,Has Children,No,Southeast,12949.1554,33.7,12949.16
+640,33,30-44,Male,42.4,Obesity,5,Has Children,No,Southwest,6666.243,42.4,6666.24
+641,42,30-44,Male,28.31,Overweight,3,Has Children,Yes,Northwest,32787.45859,28.3,32787.46
+642,61,60+,Male,33.915,Obesity,0,No Children,No,Northeast,13143.86485,33.9,13143.86
+643,23,18-29,Female,34.96,Obesity,3,Has Children,No,Northwest,4466.6214,35.0,4466.62
+644,43,30-44,Male,35.31,Obesity,2,Has Children,No,Southeast,18806.14547,35.3,18806.15
+645,48,45-59,Male,30.78,Obesity,3,Has Children,No,Northeast,10141.1362,30.8,10141.14
+646,39,30-44,Male,26.22,Overweight,1,Has Children,No,Northwest,6123.5688,26.2,6123.57
+647,40,30-44,Female,23.37,Normal weight,3,Has Children,No,Northeast,8252.2843,23.4,8252.28
+648,18,18-29,Male,28.5,Overweight,0,No Children,No,Northeast,1712.227,28.5,1712.23
+649,58,45-59,Female,32.965,Obesity,0,No Children,No,Northeast,12430.95335,33.0,12430.95
+650,49,45-59,Female,42.68,Obesity,2,Has Children,No,Southeast,9800.8882,42.7,9800.89
+651,53,45-59,Female,39.6,Obesity,1,Has Children,No,Southeast,10579.711,39.6,10579.71
+652,48,45-59,Female,31.13,Obesity,0,No Children,No,Southeast,8280.6227,31.1,8280.62
+653,45,45-59,Female,36.3,Obesity,2,Has Children,No,Southeast,8527.532,36.3,8527.53
+654,59,45-59,Female,35.2,Obesity,0,No Children,No,Southeast,12244.531,35.2,12244.53
+655,52,45-59,Female,25.3,Overweight,2,Has Children,Yes,Southeast,24667.419,25.3,24667.42
+656,26,18-29,Female,42.4,Obesity,1,Has Children,No,Southwest,3410.324,42.4,3410.32
+657,27,18-29,Male,33.155,Obesity,2,Has Children,No,Northwest,4058.71245,33.2,4058.71
+658,48,45-59,Female,35.91,Obesity,1,Has Children,No,Northeast,26392.26029,35.9,26392.26
+659,57,45-59,Female,28.785,Overweight,4,Has Children,No,Northeast,14394.39815,28.8,14394.4
+660,37,30-44,Male,46.53,Obesity,3,Has Children,No,Southeast,6435.6237,46.5,6435.62
+661,57,45-59,Female,23.98,Normal weight,1,Has Children,No,Southeast,22192.43711,24.0,22192.44
+662,32,30-44,Female,31.54,Obesity,1,Has Children,No,Northeast,5148.5526,31.5,5148.55
+663,18,18-29,Male,33.66,Obesity,0,No Children,No,Southeast,1136.3994,33.7,1136.4
+664,64,60+,Female,22.99,Normal weight,0,No Children,Yes,Southeast,27037.9141,23.0,27037.91
+665,43,30-44,Male,38.06,Obesity,2,Has Children,Yes,Southeast,42560.4304,38.1,42560.43
+666,49,45-59,Male,28.7,Overweight,1,Has Children,No,Southwest,8703.456,28.7,8703.46
+667,40,30-44,Female,32.775,Obesity,2,Has Children,Yes,Northwest,40003.33225,32.8,40003.33
+668,62,60+,Male,32.015,Obesity,0,No Children,Yes,Northeast,45710.20785,32.0,45710.21
+669,40,30-44,Female,29.81,Overweight,1,Has Children,No,Southeast,6500.2359,29.8,6500.24
+670,30,30-44,Male,31.57,Obesity,3,Has Children,No,Southeast,4837.5823,31.6,4837.58
+671,29,18-29,Female,31.16,Obesity,0,No Children,No,Northeast,3943.5954,31.2,3943.6
+672,36,30-44,Male,29.7,Overweight,0,No Children,No,Southeast,4399.731,29.7,4399.73
+673,41,30-44,Female,31.02,Obesity,0,No Children,No,Southeast,6185.3208,31.0,6185.32
+674,44,30-44,Female,43.89,Obesity,2,Has Children,Yes,Southeast,46200.9851,43.9,46200.99
+675,45,45-59,Male,21.375,Normal weight,0,No Children,No,Northwest,7222.78625,21.4,7222.79
+676,55,45-59,Female,40.81,Obesity,3,Has Children,No,Southeast,12485.8009,40.8,12485.8
+677,60,60+,Male,31.35,Obesity,3,Has Children,Yes,Northwest,46130.5265,31.4,46130.53
+678,56,45-59,Male,36.1,Obesity,3,Has Children,No,Southwest,12363.547,36.1,12363.55
+679,49,45-59,Female,23.18,Normal weight,2,Has Children,No,Northwest,10156.7832,23.2,10156.78
+680,21,18-29,Female,17.4,Underweight,1,Has Children,No,Southwest,2585.269,17.4,2585.27
+681,19,18-29,Male,20.3,Normal weight,0,No Children,No,Southwest,1242.26,20.3,1242.26
+682,39,30-44,Male,35.3,Obesity,2,Has Children,Yes,Southwest,40103.89,35.3,40103.89
+683,53,45-59,Male,24.32,Normal weight,0,No Children,No,Northwest,9863.4718,24.3,9863.47
+684,33,30-44,Female,18.5,Underweight,1,Has Children,No,Southwest,4766.022,18.5,4766.02
+685,53,45-59,Male,26.41,Overweight,2,Has Children,No,Northeast,11244.3769,26.4,11244.38
+686,42,30-44,Male,26.125,Overweight,2,Has Children,No,Northeast,7729.64575,26.1,7729.65
+687,40,30-44,Male,41.69,Obesity,0,No Children,No,Southeast,5438.7491,41.7,5438.75
+688,47,45-59,Female,24.1,Normal weight,1,Has Children,No,Southwest,26236.57997,24.1,26236.58
+689,27,18-29,Male,31.13,Obesity,1,Has Children,Yes,Southeast,34806.4677,31.1,34806.47
+690,21,18-29,Male,27.36,Overweight,0,No Children,No,Northeast,2104.1134,27.4,2104.11
+691,47,45-59,Male,36.2,Obesity,1,Has Children,No,Southwest,8068.185,36.2,8068.18
+692,20,18-29,Male,32.395,Obesity,1,Has Children,No,Northwest,2362.22905,32.4,2362.23
+693,24,18-29,Male,23.655,Normal weight,0,No Children,No,Northwest,2352.96845,23.7,2352.97
+694,27,18-29,Female,34.8,Obesity,1,Has Children,No,Southwest,3577.999,34.8,3578.0
+695,26,18-29,Female,40.185,Obesity,0,No Children,No,Northwest,3201.24515,40.2,3201.25
+696,53,45-59,Female,32.3,Obesity,2,Has Children,No,Northeast,29186.48236,32.3,29186.48
+697,41,30-44,Male,35.75,Obesity,1,Has Children,Yes,Southeast,40273.6455,35.8,40273.65
+698,56,45-59,Male,33.725,Obesity,0,No Children,No,Northwest,10976.24575,33.7,10976.25
+699,23,18-29,Female,39.27,Obesity,2,Has Children,No,Southeast,3500.6123,39.3,3500.61
+700,21,18-29,Female,34.87,Obesity,0,No Children,No,Southeast,2020.5523,34.9,2020.55
+701,50,45-59,Female,44.745,Obesity,0,No Children,No,Northeast,9541.69555,44.7,9541.7
+702,53,45-59,Male,41.47,Obesity,0,No Children,No,Southeast,9504.3103,41.5,9504.31
+703,34,30-44,Female,26.41,Overweight,1,Has Children,No,Northwest,5385.3379,26.4,5385.34
+704,47,45-59,Female,29.545,Overweight,1,Has Children,No,Northwest,8930.93455,29.5,8930.93
+705,33,30-44,Female,32.9,Obesity,2,Has Children,No,Southwest,5375.038,32.9,5375.04
+706,51,45-59,Female,38.06,Obesity,0,No Children,Yes,Southeast,44400.4064,38.1,44400.41
+707,49,45-59,Male,28.69,Overweight,3,Has Children,No,Northwest,10264.4421,28.7,10264.44
+708,31,30-44,Female,30.495,Obesity,3,Has Children,No,Northeast,6113.23105,30.5,6113.23
+709,36,30-44,Female,27.74,Overweight,0,No Children,No,Northeast,5469.0066,27.7,5469.01
+710,18,18-29,Male,35.2,Obesity,1,Has Children,No,Southeast,1727.54,35.2,1727.54
+711,50,45-59,Female,23.54,Normal weight,2,Has Children,No,Southeast,10107.2206,23.5,10107.22
+712,43,30-44,Female,30.685,Obesity,2,Has Children,No,Northwest,8310.83915,30.7,8310.84
+713,20,18-29,Male,40.47,Obesity,0,No Children,No,Northeast,1984.4533,40.5,1984.45
+714,24,18-29,Female,22.6,Normal weight,0,No Children,No,Southwest,2457.502,22.6,2457.5
+715,60,60+,Male,28.9,Overweight,0,No Children,No,Southwest,12146.971,28.9,12146.97
+716,49,45-59,Female,22.61,Normal weight,1,Has Children,No,Northwest,9566.9909,22.6,9566.99
+717,60,60+,Male,24.32,Normal weight,1,Has Children,No,Northwest,13112.6048,24.3,13112.6
+718,51,45-59,Female,36.67,Obesity,2,Has Children,No,Northwest,10848.1343,36.7,10848.13
+719,58,45-59,Female,33.44,Obesity,0,No Children,No,Northwest,12231.6136,33.4,12231.61
+720,51,45-59,Female,40.66,Obesity,0,No Children,No,Northeast,9875.6804,40.7,9875.68
+721,53,45-59,Male,36.6,Obesity,3,Has Children,No,Southwest,11264.541,36.6,11264.54
+722,62,60+,Male,37.4,Obesity,0,No Children,No,Southwest,12979.358,37.4,12979.36
+723,19,18-29,Male,35.4,Obesity,0,No Children,No,Southwest,1263.249,35.4,1263.25
+724,50,45-59,Female,27.075,Overweight,1,Has Children,No,Northeast,10106.13425,27.1,10106.13
+725,30,30-44,Female,39.05,Obesity,3,Has Children,Yes,Southeast,40932.4295,39.0,40932.43
+726,41,30-44,Male,28.405,Overweight,1,Has Children,No,Northwest,6664.68595,28.4,6664.69
+727,29,18-29,Female,21.755,Normal weight,1,Has Children,Yes,Northeast,16657.71745,21.8,16657.72
+728,18,18-29,Female,40.28,Obesity,0,No Children,No,Northeast,2217.6012,40.3,2217.6
+729,41,30-44,Female,36.08,Obesity,1,Has Children,No,Southeast,6781.3542,36.1,6781.35
+730,35,30-44,Male,24.42,Normal weight,3,Has Children,Yes,Southeast,19361.9988,24.4,19362.0
+731,53,45-59,Male,21.4,Normal weight,1,Has Children,No,Southwest,10065.413,21.4,10065.41
+732,24,18-29,Female,30.1,Obesity,3,Has Children,No,Southwest,4234.927,30.1,4234.93
+733,48,45-59,Female,27.265,Overweight,1,Has Children,No,Northeast,9447.25035,27.3,9447.25
+734,59,45-59,Female,32.1,Obesity,3,Has Children,No,Southwest,14007.222,32.1,14007.22
+735,49,45-59,Female,34.77,Obesity,1,Has Children,No,Northwest,9583.8933,34.8,9583.89
+736,37,30-44,Female,38.39,Obesity,0,No Children,Yes,Southeast,40419.0191,38.4,40419.02
+737,26,18-29,Male,23.7,Normal weight,2,Has Children,No,Southwest,3484.331,23.7,3484.33
+738,23,18-29,Male,31.73,Obesity,3,Has Children,Yes,Northeast,36189.1017,31.7,36189.1
+739,29,18-29,Male,35.5,Obesity,2,Has Children,Yes,Southwest,44585.45587,35.5,44585.46
+740,45,45-59,Male,24.035,Normal weight,2,Has Children,No,Northeast,8604.48365,24.0,8604.48
+741,27,18-29,Male,29.15,Overweight,0,No Children,Yes,Southeast,18246.4955,29.2,18246.5
+742,53,45-59,Male,34.105,Obesity,0,No Children,Yes,Northeast,43254.41795,34.1,43254.42
+743,31,30-44,Female,26.62,Overweight,0,No Children,No,Southeast,3757.8448,26.6,3757.84
+744,50,45-59,Male,26.41,Overweight,0,No Children,No,Northwest,8827.2099,26.4,8827.21
+745,50,45-59,Female,30.115,Obesity,1,Has Children,No,Northwest,9910.35985,30.1,9910.36
+746,34,30-44,Male,27.0,Overweight,2,Has Children,No,Southwest,11737.84884,27.0,11737.85
+747,19,18-29,Male,21.755,Normal weight,0,No Children,No,Northwest,1627.28245,21.8,1627.28
+748,47,45-59,Female,36.0,Obesity,1,Has Children,No,Southwest,8556.907,36.0,8556.91
+749,28,18-29,Male,30.875,Obesity,0,No Children,No,Northwest,3062.50825,30.9,3062.51
+750,37,30-44,Female,26.4,Overweight,0,No Children,Yes,Southeast,19539.243,26.4,19539.24
+751,21,18-29,Male,28.975,Overweight,0,No Children,No,Northwest,1906.35825,29.0,1906.36
+752,64,60+,Male,37.905,Obesity,0,No Children,No,Northwest,14210.53595,37.9,14210.54
+753,58,45-59,Female,22.77,Normal weight,0,No Children,No,Southeast,11833.7823,22.8,11833.78
+754,24,18-29,Male,33.63,Obesity,4,Has Children,No,Northeast,17128.42608,33.6,17128.43
+755,31,30-44,Male,27.645,Overweight,2,Has Children,No,Northeast,5031.26955,27.6,5031.27
+756,39,30-44,Female,22.8,Normal weight,3,Has Children,No,Northeast,7985.815,22.8,7985.82
+757,47,45-59,Female,27.83,Overweight,0,No Children,Yes,Southeast,23065.4207,27.8,23065.42
+758,30,30-44,Male,37.43,Obesity,3,Has Children,No,Northeast,5428.7277,37.4,5428.73
+759,18,18-29,Male,38.17,Obesity,0,No Children,Yes,Southeast,36307.7983,38.2,36307.8
+760,22,18-29,Female,34.58,Obesity,2,Has Children,No,Northeast,3925.7582,34.6,3925.76
+761,23,18-29,Male,35.2,Obesity,1,Has Children,No,Southwest,2416.955,35.2,2416.96
+762,33,30-44,Male,27.1,Overweight,1,Has Children,Yes,Southwest,19040.876,27.1,19040.88
+763,27,18-29,Male,26.03,Overweight,0,No Children,No,Northeast,3070.8087,26.0,3070.81
+764,45,45-59,Female,25.175,Overweight,2,Has Children,No,Northeast,9095.06825,25.2,9095.07
+765,57,45-59,Female,31.825,Obesity,0,No Children,No,Northwest,11842.62375,31.8,11842.62
+766,47,45-59,Male,32.3,Obesity,1,Has Children,No,Southwest,8062.764,32.3,8062.76
+767,42,30-44,Female,29.0,Overweight,1,Has Children,No,Southwest,7050.642,29.0,7050.64
+768,64,60+,Female,39.7,Obesity,0,No Children,No,Southwest,14319.031,39.7,14319.03
+769,38,30-44,Female,19.475,Normal weight,2,Has Children,No,Northwest,6933.24225,19.5,6933.24
+770,61,60+,Male,36.1,Obesity,3,Has Children,No,Southwest,27941.28758,36.1,27941.29
+771,53,45-59,Female,26.7,Overweight,2,Has Children,No,Southwest,11150.78,26.7,11150.78
+772,44,30-44,Female,36.48,Obesity,0,No Children,No,Northeast,12797.20962,36.5,12797.21
+773,19,18-29,Female,28.88,Overweight,0,No Children,Yes,Northwest,17748.5062,28.9,17748.51
+774,41,30-44,Male,34.2,Obesity,2,Has Children,No,Northwest,7261.741,34.2,7261.74
+775,51,45-59,Male,33.33,Obesity,3,Has Children,No,Southeast,10560.4917,33.3,10560.49
+776,40,30-44,Male,32.3,Obesity,2,Has Children,No,Northwest,6986.697,32.3,6986.7
+777,45,45-59,Male,39.805,Obesity,0,No Children,No,Northeast,7448.40395,39.8,7448.4
+778,35,30-44,Male,34.32,Obesity,3,Has Children,No,Southeast,5934.3798,34.3,5934.38
+779,53,45-59,Male,28.88,Overweight,0,No Children,No,Northwest,9869.8102,28.9,9869.81
+780,30,30-44,Male,24.4,Normal weight,3,Has Children,Yes,Southwest,18259.216,24.4,18259.22
+781,18,18-29,Male,41.14,Obesity,0,No Children,No,Southeast,1146.7966,41.1,1146.8
+782,51,45-59,Male,35.97,Obesity,1,Has Children,No,Southeast,9386.1613,36.0,9386.16
+783,50,45-59,Female,27.6,Overweight,1,Has Children,Yes,Southwest,24520.264,27.6,24520.26
+784,31,30-44,Female,29.26,Overweight,1,Has Children,No,Southeast,4350.5144,29.3,4350.51
+785,35,30-44,Female,27.7,Overweight,3,Has Children,No,Southwest,6414.178,27.7,6414.18
+786,60,60+,Male,36.955,Obesity,0,No Children,No,Northeast,12741.16745,37.0,12741.17
+787,21,18-29,Male,36.86,Obesity,0,No Children,No,Northwest,1917.3184,36.9,1917.32
+788,29,18-29,Male,22.515,Normal weight,3,Has Children,No,Northeast,5209.57885,22.5,5209.58
+789,62,60+,Female,29.92,Obesity,0,No Children,No,Southeast,13457.9608,29.9,13457.96
+790,39,30-44,Female,41.8,Obesity,0,No Children,No,Southeast,5662.225,41.8,5662.22
+791,19,18-29,Male,27.6,Overweight,0,No Children,No,Southwest,1252.407,27.6,1252.41
+792,22,18-29,Female,23.18,Normal weight,0,No Children,No,Northeast,2731.9122,23.2,2731.91
+793,53,45-59,Male,20.9,Normal weight,0,No Children,Yes,Southeast,21195.818,20.9,21195.82
+794,39,30-44,Female,31.92,Obesity,2,Has Children,No,Northwest,7209.4918,31.9,7209.49
+795,27,18-29,Male,28.5,Overweight,0,No Children,Yes,Northwest,18310.742,28.5,18310.74
+796,30,30-44,Male,44.22,Obesity,2,Has Children,No,Southeast,4266.1658,44.2,4266.17
+797,30,30-44,Female,22.895,Normal weight,1,Has Children,No,Northeast,4719.52405,22.9,4719.52
+798,58,45-59,Female,33.1,Obesity,0,No Children,No,Southwest,11848.141,33.1,11848.14
+799,33,30-44,Male,24.795,Normal weight,0,No Children,Yes,Northeast,17904.52705,24.8,17904.53
+800,42,30-44,Female,26.18,Overweight,1,Has Children,No,Southeast,7046.7222,26.2,7046.72
+801,64,60+,Female,35.97,Obesity,0,No Children,No,Southeast,14313.8463,36.0,14313.85
+802,21,18-29,Male,22.3,Normal weight,1,Has Children,No,Southwest,2103.08,22.3,2103.08
+803,18,18-29,Female,42.24,Obesity,0,No Children,Yes,Southeast,38792.6856,42.2,38792.69
+804,23,18-29,Male,26.51,Overweight,0,No Children,No,Southeast,1815.8759,26.5,1815.88
+805,45,45-59,Female,35.815,Obesity,0,No Children,No,Northwest,7731.85785,35.8,7731.86
+806,40,30-44,Female,41.42,Obesity,1,Has Children,No,Northwest,28476.73499,41.4,28476.73
+807,19,18-29,Female,36.575,Obesity,0,No Children,No,Northwest,2136.88225,36.6,2136.88
+808,18,18-29,Male,30.14,Obesity,0,No Children,No,Southeast,1131.5066,30.1,1131.51
+809,25,18-29,Male,25.84,Overweight,1,Has Children,No,Northeast,3309.7926,25.8,3309.79
+810,46,45-59,Female,30.8,Obesity,3,Has Children,No,Southwest,9414.92,30.8,9414.92
+811,33,30-44,Female,42.94,Obesity,3,Has Children,No,Northwest,6360.9936,42.9,6360.99
+812,54,45-59,Male,21.01,Normal weight,2,Has Children,No,Southeast,11013.7119,21.0,11013.71
+813,28,18-29,Male,22.515,Normal weight,2,Has Children,No,Northeast,4428.88785,22.5,4428.89
+814,36,30-44,Male,34.43,Obesity,2,Has Children,No,Southeast,5584.3057,34.4,5584.31
+815,20,18-29,Female,31.46,Obesity,0,No Children,No,Southeast,1877.9294,31.5,1877.93
+816,24,18-29,Female,24.225,Normal weight,0,No Children,No,Northwest,2842.76075,24.2,2842.76
+817,23,18-29,Male,37.1,Obesity,3,Has Children,No,Southwest,3597.596,37.1,3597.6
+818,47,45-59,Female,26.125,Overweight,1,Has Children,Yes,Northeast,23401.30575,26.1,23401.31
+819,33,30-44,Female,35.53,Obesity,0,No Children,Yes,Northwest,55135.40209,35.5,55135.4
+820,45,45-59,Male,33.7,Obesity,1,Has Children,No,Southwest,7445.918,33.7,7445.92
+821,26,18-29,Male,17.67,Underweight,0,No Children,No,Northwest,2680.9493,17.7,2680.95
+822,18,18-29,Female,31.13,Obesity,0,No Children,No,Southeast,1621.8827,31.1,1621.88
+823,44,30-44,Female,29.81,Overweight,2,Has Children,No,Southeast,8219.2039,29.8,8219.2
+824,60,60+,Male,24.32,Normal weight,0,No Children,No,Northwest,12523.6048,24.3,12523.6
+825,64,60+,Female,31.825,Obesity,2,Has Children,No,Northeast,16069.08475,31.8,16069.08
+826,56,45-59,Male,31.79,Obesity,2,Has Children,Yes,Southeast,43813.8661,31.8,43813.87
+827,36,30-44,Male,28.025,Overweight,1,Has Children,Yes,Northeast,20773.62775,28.0,20773.63
+828,41,30-44,Male,30.78,Obesity,3,Has Children,Yes,Northeast,39597.4072,30.8,39597.41
+829,39,30-44,Male,21.85,Normal weight,1,Has Children,No,Northwest,6117.4945,21.8,6117.49
+830,63,60+,Male,33.1,Obesity,0,No Children,No,Southwest,13393.756,33.1,13393.76
+831,36,30-44,Female,25.84,Overweight,0,No Children,No,Northwest,5266.3656,25.8,5266.37
+832,28,18-29,Female,23.845,Normal weight,2,Has Children,No,Northwest,4719.73655,23.8,4719.74
+833,58,45-59,Male,34.39,Obesity,0,No Children,No,Northwest,11743.9341,34.4,11743.93
+834,36,30-44,Male,33.82,Obesity,1,Has Children,No,Northwest,5377.4578,33.8,5377.46
+835,42,30-44,Male,35.97,Obesity,2,Has Children,No,Southeast,7160.3303,36.0,7160.33
+836,36,30-44,Male,31.5,Obesity,0,No Children,No,Southwest,4402.233,31.5,4402.23
+837,56,45-59,Female,28.31,Overweight,0,No Children,No,Northeast,11657.7189,28.3,11657.72
+838,35,30-44,Female,23.465,Normal weight,2,Has Children,No,Northeast,6402.29135,23.5,6402.29
+839,59,45-59,Female,31.35,Obesity,0,No Children,No,Northwest,12622.1795,31.4,12622.18
+840,21,18-29,Male,31.1,Obesity,0,No Children,No,Southwest,1526.312,31.1,1526.31
+841,59,45-59,Male,24.7,Normal weight,0,No Children,No,Northeast,12323.936,24.7,12323.94
+842,23,18-29,Female,32.78,Obesity,2,Has Children,Yes,Southeast,36021.0112,32.8,36021.01
+843,57,45-59,Female,29.81,Overweight,0,No Children,Yes,Southeast,27533.9129,29.8,27533.91
+844,53,45-59,Male,30.495,Obesity,0,No Children,No,Northeast,10072.05505,30.5,10072.06
+845,60,60+,Female,32.45,Obesity,0,No Children,Yes,Southeast,45008.9555,32.4,45008.96
+846,51,45-59,Female,34.2,Obesity,1,Has Children,No,Southwest,9872.701,34.2,9872.7
+847,23,18-29,Male,50.38,Obesity,1,Has Children,No,Southeast,2438.0552,50.4,2438.06
+848,27,18-29,Female,24.1,Normal weight,0,No Children,No,Southwest,2974.126,24.1,2974.13
+849,55,45-59,Male,32.775,Obesity,0,No Children,No,Northwest,10601.63225,32.8,10601.63
+850,37,30-44,Female,30.78,Obesity,0,No Children,Yes,Northeast,37270.1512,30.8,37270.15
+851,61,60+,Male,32.3,Obesity,2,Has Children,No,Northwest,14119.62,32.3,14119.62
+852,46,45-59,Female,35.53,Obesity,0,No Children,Yes,Northeast,42111.6647,35.5,42111.66
+853,53,45-59,Female,23.75,Normal weight,2,Has Children,No,Northeast,11729.6795,23.8,11729.68
+854,49,45-59,Female,23.845,Normal weight,3,Has Children,Yes,Northeast,24106.91255,23.8,24106.91
+855,20,18-29,Female,29.6,Overweight,0,No Children,No,Southwest,1875.344,29.6,1875.34
+856,48,45-59,Female,33.11,Obesity,0,No Children,Yes,Southeast,40974.1649,33.1,40974.16
+857,25,18-29,Male,24.13,Normal weight,0,No Children,Yes,Northwest,15817.9857,24.1,15817.99
+858,25,18-29,Female,32.23,Obesity,1,Has Children,No,Southeast,18218.16139,32.2,18218.16
+859,57,45-59,Male,28.1,Overweight,0,No Children,No,Southwest,10965.446,28.1,10965.45
+860,37,30-44,Female,47.6,Obesity,2,Has Children,Yes,Southwest,46113.511,47.6,46113.51
+861,38,30-44,Female,28.0,Overweight,3,Has Children,No,Southwest,7151.092,28.0,7151.09
+862,55,45-59,Female,33.535,Obesity,2,Has Children,No,Northwest,12269.68865,33.5,12269.69
+863,36,30-44,Female,19.855,Normal weight,0,No Children,No,Northeast,5458.04645,19.9,5458.05
+864,51,45-59,Male,25.4,Overweight,0,No Children,No,Southwest,8782.469,25.4,8782.47
+865,40,30-44,Male,29.9,Overweight,2,Has Children,No,Southwest,6600.361,29.9,6600.36
+866,18,18-29,Male,37.29,Obesity,0,No Children,No,Southeast,1141.4451,37.3,1141.45
+867,57,45-59,Male,43.7,Obesity,1,Has Children,No,Southwest,11576.13,43.7,11576.13
+868,61,60+,Male,23.655,Normal weight,0,No Children,No,Northeast,13129.60345,23.7,13129.6
+869,25,18-29,Female,24.3,Normal weight,3,Has Children,No,Southwest,4391.652,24.3,4391.65
+870,50,45-59,Male,36.2,Obesity,0,No Children,No,Southwest,8457.818,36.2,8457.82
+871,26,18-29,Female,29.48,Overweight,1,Has Children,No,Southeast,3392.3652,29.5,3392.37
+872,42,30-44,Male,24.86,Normal weight,0,No Children,No,Southeast,5966.8874,24.9,5966.89
+873,43,30-44,Male,30.1,Obesity,1,Has Children,No,Southwest,6849.026,30.1,6849.03
+874,44,30-44,Male,21.85,Normal weight,3,Has Children,No,Northeast,8891.1395,21.8,8891.14
+875,23,18-29,Female,28.12,Overweight,0,No Children,No,Northwest,2690.1138,28.1,2690.11
+876,49,45-59,Female,27.1,Overweight,1,Has Children,No,Southwest,26140.3603,27.1,26140.36
+877,33,30-44,Male,33.44,Obesity,5,Has Children,No,Southeast,6653.7886,33.4,6653.79
+878,41,30-44,Male,28.8,Overweight,1,Has Children,No,Southwest,6282.235,28.8,6282.24
+879,37,30-44,Female,29.5,Overweight,2,Has Children,No,Southwest,6311.952,29.5,6311.95
+880,22,18-29,Male,34.8,Obesity,3,Has Children,No,Southwest,3443.064,34.8,3443.06
+881,23,18-29,Male,27.36,Overweight,1,Has Children,No,Northwest,2789.0574,27.4,2789.06
+882,21,18-29,Female,22.135,Normal weight,0,No Children,No,Northeast,2585.85065,22.1,2585.85
+883,51,45-59,Female,37.05,Obesity,3,Has Children,Yes,Northeast,46255.1125,37.0,46255.11
+884,25,18-29,Male,26.695,Overweight,4,Has Children,No,Northwest,4877.98105,26.7,4877.98
+885,32,30-44,Male,28.93,Overweight,1,Has Children,Yes,Southeast,19719.6947,28.9,19719.69
+886,57,45-59,Male,28.975,Overweight,0,No Children,Yes,Northeast,27218.43725,29.0,27218.44
+887,36,30-44,Female,30.02,Obesity,0,No Children,No,Northwest,5272.1758,30.0,5272.18
+888,22,18-29,Male,39.5,Obesity,0,No Children,No,Southwest,1682.597,39.5,1682.6
+889,57,45-59,Male,33.63,Obesity,1,Has Children,No,Northwest,11945.1327,33.6,11945.13
+890,64,60+,Female,26.885,Overweight,0,No Children,Yes,Northwest,29330.98315,26.9,29330.98
+891,36,30-44,Female,29.04,Overweight,4,Has Children,No,Southeast,7243.8136,29.0,7243.81
+892,54,45-59,Male,24.035,Normal weight,0,No Children,No,Northeast,10422.91665,24.0,10422.92
+893,47,45-59,Male,38.94,Obesity,2,Has Children,Yes,Southeast,44202.6536,38.9,44202.65
+894,62,60+,Male,32.11,Obesity,0,No Children,No,Northeast,13555.0049,32.1,13555.0
+895,61,60+,Female,44.0,Obesity,0,No Children,No,Southwest,13063.883,44.0,13063.88
+896,43,30-44,Female,20.045,Normal weight,2,Has Children,Yes,Northeast,19798.05455,20.0,19798.05
+897,19,18-29,Male,25.555,Overweight,1,Has Children,No,Northwest,2221.56445,25.6,2221.56
+898,18,18-29,Female,40.26,Obesity,0,No Children,No,Southeast,1634.5734,40.3,1634.57
+899,19,18-29,Female,22.515,Normal weight,0,No Children,No,Northwest,2117.33885,22.5,2117.34
+900,49,45-59,Male,22.515,Normal weight,0,No Children,No,Northeast,8688.85885,22.5,8688.86
+901,60,60+,Male,40.92,Obesity,0,No Children,Yes,Southeast,48673.5588,40.9,48673.56
+902,26,18-29,Male,27.265,Overweight,3,Has Children,No,Northeast,4661.28635,27.3,4661.29
+903,49,45-59,Male,36.85,Obesity,0,No Children,No,Southeast,8125.7845,36.8,8125.78
+904,60,60+,Female,35.1,Obesity,0,No Children,No,Southwest,12644.589,35.1,12644.59
+905,26,18-29,Female,29.355,Overweight,2,Has Children,No,Northeast,4564.19145,29.4,4564.19
+906,27,18-29,Male,32.585,Obesity,3,Has Children,No,Northeast,4846.92015,32.6,4846.92
+907,44,30-44,Female,32.34,Obesity,1,Has Children,No,Southeast,7633.7206,32.3,7633.72
+908,63,60+,Male,39.8,Obesity,3,Has Children,No,Southwest,15170.069,39.8,15170.07
+909,32,30-44,Female,24.6,Normal weight,0,No Children,Yes,Southwest,17496.306,24.6,17496.31
+910,22,18-29,Male,28.31,Overweight,1,Has Children,No,Northwest,2639.0429,28.3,2639.04
+911,18,18-29,Male,31.73,Obesity,0,No Children,Yes,Northeast,33732.6867,31.7,33732.69
+912,59,45-59,Female,26.695,Overweight,3,Has Children,No,Northwest,14382.70905,26.7,14382.71
+913,44,30-44,Female,27.5,Overweight,1,Has Children,No,Southwest,7626.993,27.5,7626.99
+914,33,30-44,Male,24.605,Normal weight,2,Has Children,No,Northwest,5257.50795,24.6,5257.51
+915,24,18-29,Female,33.99,Obesity,0,No Children,No,Southeast,2473.3341,34.0,2473.33
+916,43,30-44,Female,26.885,Overweight,0,No Children,Yes,Northwest,21774.32215,26.9,21774.32
+917,45,45-59,Male,22.895,Normal weight,0,No Children,Yes,Northeast,35069.37452,22.9,35069.37
+918,61,60+,Female,28.2,Overweight,0,No Children,No,Southwest,13041.921,28.2,13041.92
+919,35,30-44,Female,34.21,Obesity,1,Has Children,No,Southeast,5245.2269,34.2,5245.23
+920,62,60+,Female,25.0,Overweight,0,No Children,No,Southwest,13451.122,25.0,13451.12
+921,62,60+,Female,33.2,Obesity,0,No Children,No,Southwest,13462.52,33.2,13462.52
+922,38,30-44,Male,31.0,Obesity,1,Has Children,No,Southwest,5488.262,31.0,5488.26
+923,34,30-44,Male,35.815,Obesity,0,No Children,No,Northwest,4320.41085,35.8,4320.41
+924,43,30-44,Male,23.2,Normal weight,0,No Children,No,Southwest,6250.435,23.2,6250.44
+925,50,45-59,Male,32.11,Obesity,2,Has Children,No,Northeast,25333.33284,32.1,25333.33
+926,19,18-29,Female,23.4,Normal weight,2,Has Children,No,Southwest,2913.569,23.4,2913.57
+927,57,45-59,Female,20.1,Normal weight,1,Has Children,No,Southwest,12032.326,20.1,12032.33
+928,62,60+,Female,39.16,Obesity,0,No Children,No,Southeast,13470.8044,39.2,13470.8
+929,41,30-44,Male,34.21,Obesity,1,Has Children,No,Southeast,6289.7549,34.2,6289.75
+930,26,18-29,Male,46.53,Obesity,1,Has Children,No,Southeast,2927.0647,46.5,2927.06
+931,39,30-44,Female,32.5,Obesity,1,Has Children,No,Southwest,6238.298,32.5,6238.3
+932,46,45-59,Male,25.8,Overweight,5,Has Children,No,Southwest,10096.97,25.8,10096.97
+933,45,45-59,Female,35.3,Obesity,0,No Children,No,Southwest,7348.142,35.3,7348.14
+934,32,30-44,Male,37.18,Obesity,2,Has Children,No,Southeast,4673.3922,37.2,4673.39
+935,59,45-59,Female,27.5,Overweight,0,No Children,No,Southwest,12233.828,27.5,12233.83
+936,44,30-44,Male,29.735,Overweight,2,Has Children,No,Northeast,32108.66282,29.7,32108.66
+937,39,30-44,Female,24.225,Normal weight,5,Has Children,No,Northwest,8965.79575,24.2,8965.8
+938,18,18-29,Male,26.18,Overweight,2,Has Children,No,Southeast,2304.0022,26.2,2304.0
+939,53,45-59,Male,29.48,Overweight,0,No Children,No,Southeast,9487.6442,29.5,9487.64
+940,18,18-29,Male,23.21,Normal weight,0,No Children,No,Southeast,1121.8739,23.2,1121.87
+941,50,45-59,Female,46.09,Obesity,1,Has Children,No,Southeast,9549.5651,46.1,9549.57
+942,18,18-29,Female,40.185,Obesity,0,No Children,No,Northeast,2217.46915,40.2,2217.47
+943,19,18-29,Male,22.61,Normal weight,0,No Children,No,Northwest,1628.4709,22.6,1628.47
+944,62,60+,Male,39.93,Obesity,0,No Children,No,Southeast,12982.8747,39.9,12982.87
+945,56,45-59,Female,35.8,Obesity,1,Has Children,No,Southwest,11674.13,35.8,11674.13
+946,42,30-44,Male,35.8,Obesity,2,Has Children,No,Southwest,7160.094,35.8,7160.09
+947,37,30-44,Male,34.2,Obesity,1,Has Children,Yes,Northeast,39047.285,34.2,39047.29
+948,42,30-44,Male,31.255,Obesity,0,No Children,No,Northwest,6358.77645,31.3,6358.78
+949,25,18-29,Male,29.7,Overweight,3,Has Children,Yes,Southwest,19933.458,29.7,19933.46
+950,57,45-59,Male,18.335,Underweight,0,No Children,No,Northeast,11534.87265,18.3,11534.87
+951,51,45-59,Male,42.9,Obesity,2,Has Children,Yes,Southeast,47462.894,42.9,47462.89
+952,30,30-44,Female,28.405,Overweight,1,Has Children,No,Northwest,4527.18295,28.4,4527.18
+953,44,30-44,Male,30.2,Obesity,2,Has Children,Yes,Southwest,38998.546,30.2,38998.55
+954,34,30-44,Male,27.835,Overweight,1,Has Children,Yes,Northwest,20009.63365,27.8,20009.63
+955,31,30-44,Male,39.49,Obesity,1,Has Children,No,Southeast,3875.7341,39.5,3875.73
+956,54,45-59,Male,30.8,Obesity,1,Has Children,Yes,Southeast,41999.52,30.8,41999.52
+957,24,18-29,Male,26.79,Overweight,1,Has Children,No,Northwest,12609.88702,26.8,12609.89
+958,43,30-44,Male,34.96,Obesity,1,Has Children,Yes,Northeast,41034.2214,35.0,41034.22
+959,48,45-59,Male,36.67,Obesity,1,Has Children,No,Northwest,28468.91901,36.7,28468.92
+960,19,18-29,Female,39.615,Obesity,1,Has Children,No,Northwest,2730.10785,39.6,2730.11
+961,29,18-29,Female,25.9,Overweight,0,No Children,No,Southwest,3353.284,25.9,3353.28
+962,63,60+,Female,35.2,Obesity,1,Has Children,No,Southeast,14474.675,35.2,14474.68
+963,46,45-59,Male,24.795,Normal weight,3,Has Children,No,Northeast,9500.57305,24.8,9500.57
+964,52,45-59,Male,36.765,Obesity,2,Has Children,No,Northwest,26467.09737,36.8,26467.1
+965,35,30-44,Male,27.1,Overweight,1,Has Children,No,Southwest,4746.344,27.1,4746.34
+966,51,45-59,Male,24.795,Normal weight,2,Has Children,Yes,Northwest,23967.38305,24.8,23967.38
+967,44,30-44,Male,25.365,Overweight,1,Has Children,No,Northwest,7518.02535,25.4,7518.03
+968,21,18-29,Male,25.745,Overweight,2,Has Children,No,Northeast,3279.86855,25.7,3279.87
+969,39,30-44,Female,34.32,Obesity,5,Has Children,No,Southeast,8596.8278,34.3,8596.83
+970,50,45-59,Female,28.16,Overweight,3,Has Children,No,Southeast,10702.6424,28.2,10702.64
+971,34,30-44,Female,23.56,Normal weight,0,No Children,No,Northeast,4992.3764,23.6,4992.38
+972,22,18-29,Female,20.235,Normal weight,0,No Children,No,Northwest,2527.81865,20.2,2527.82
+973,19,18-29,Female,40.5,Obesity,0,No Children,No,Southwest,1759.338,40.5,1759.34
+974,26,18-29,Male,35.42,Obesity,0,No Children,No,Southeast,2322.6218,35.4,2322.62
+975,29,18-29,Male,22.895,Normal weight,0,No Children,Yes,Northeast,16138.76205,22.9,16138.76
+976,48,45-59,Male,40.15,Obesity,0,No Children,No,Southeast,7804.1605,40.2,7804.16
+977,26,18-29,Male,29.15,Overweight,1,Has Children,No,Southeast,2902.9065,29.2,2902.91
+978,45,45-59,Female,39.995,Obesity,3,Has Children,No,Northeast,9704.66805,40.0,9704.67
+979,36,30-44,Female,29.92,Obesity,0,No Children,No,Southeast,4889.0368,29.9,4889.04
+980,54,45-59,Male,25.46,Overweight,1,Has Children,No,Northeast,25517.11363,25.5,25517.11
+981,34,30-44,Male,21.375,Normal weight,0,No Children,No,Northeast,4500.33925,21.4,4500.34
+982,31,30-44,Male,25.9,Overweight,3,Has Children,Yes,Southwest,19199.944,25.9,19199.94
+983,27,18-29,Female,30.59,Obesity,1,Has Children,No,Northeast,16796.41194,30.6,16796.41
+984,20,18-29,Male,30.115,Obesity,5,Has Children,No,Northeast,4915.05985,30.1,4915.06
+985,44,30-44,Female,25.8,Overweight,1,Has Children,No,Southwest,7624.63,25.8,7624.63
+986,43,30-44,Male,30.115,Obesity,3,Has Children,No,Northwest,8410.04685,30.1,8410.05
+987,45,45-59,Female,27.645,Overweight,1,Has Children,No,Northwest,28340.18885,27.6,28340.19
+988,34,30-44,Male,34.675,Obesity,0,No Children,No,Northeast,4518.82625,34.7,4518.83
+989,24,18-29,Female,20.52,Normal weight,0,No Children,Yes,Northeast,14571.8908,20.5,14571.89
+990,26,18-29,Female,19.8,Normal weight,1,Has Children,No,Southwest,3378.91,19.8,3378.91
+991,38,30-44,Female,27.835,Overweight,2,Has Children,No,Northeast,7144.86265,27.8,7144.86
+992,50,45-59,Female,31.6,Obesity,2,Has Children,No,Southwest,10118.424,31.6,10118.42
+993,38,30-44,Male,28.27,Overweight,1,Has Children,No,Southeast,5484.4673,28.3,5484.47
+994,27,18-29,Female,20.045,Normal weight,3,Has Children,Yes,Northwest,16420.49455,20.0,16420.49
+995,39,30-44,Female,23.275,Normal weight,3,Has Children,No,Northeast,7986.47525,23.3,7986.48
+996,39,30-44,Female,34.1,Obesity,3,Has Children,No,Southwest,7418.522,34.1,7418.52
+997,63,60+,Female,36.85,Obesity,0,No Children,No,Southeast,13887.9685,36.8,13887.97
+998,33,30-44,Female,36.29,Obesity,3,Has Children,No,Northeast,6551.7501,36.3,6551.75
+999,36,30-44,Female,26.885,Overweight,0,No Children,No,Northwest,5267.81815,26.9,5267.82
+1000,30,30-44,Male,22.99,Normal weight,2,Has Children,Yes,Northwest,17361.7661,23.0,17361.77
+1001,24,18-29,Male,32.7,Obesity,0,No Children,Yes,Southwest,34472.841,32.7,34472.84
+1002,24,18-29,Male,25.8,Overweight,0,No Children,No,Southwest,1972.95,25.8,1972.95
+1003,48,45-59,Male,29.6,Overweight,0,No Children,No,Southwest,21232.18226,29.6,21232.18
+1004,47,45-59,Male,19.19,Normal weight,1,Has Children,No,Northeast,8627.5411,19.2,8627.54
+1005,29,18-29,Male,31.73,Obesity,2,Has Children,No,Northwest,4433.3877,31.7,4433.39
+1006,28,18-29,Male,29.26,Overweight,2,Has Children,No,Northeast,4438.2634,29.3,4438.26
+1007,47,45-59,Male,28.215,Overweight,3,Has Children,Yes,Northwest,24915.22085,28.2,24915.22
+1008,25,18-29,Male,24.985,Overweight,2,Has Children,No,Northeast,23241.47453,25.0,23241.47
+1009,51,45-59,Male,27.74,Overweight,1,Has Children,No,Northeast,9957.7216,27.7,9957.72
+1010,48,45-59,Female,22.8,Normal weight,0,No Children,No,Southwest,8269.044,22.8,8269.04
+1011,43,30-44,Male,20.13,Normal weight,2,Has Children,Yes,Southeast,18767.7377,20.1,18767.74
+1012,61,60+,Female,33.33,Obesity,4,Has Children,No,Southeast,36580.28216,33.3,36580.28
+1013,48,45-59,Male,32.3,Obesity,1,Has Children,No,Northwest,8765.249,32.3,8765.25
+1014,38,30-44,Female,27.6,Overweight,0,No Children,No,Southwest,5383.536,27.6,5383.54
+1015,59,45-59,Male,25.46,Overweight,0,No Children,No,Northwest,12124.9924,25.5,12124.99
+1016,19,18-29,Female,24.605,Normal weight,1,Has Children,No,Northwest,2709.24395,24.6,2709.24
+1017,26,18-29,Female,34.2,Obesity,2,Has Children,No,Southwest,3987.926,34.2,3987.93
+1018,54,45-59,Female,35.815,Obesity,3,Has Children,No,Northwest,12495.29085,35.8,12495.29
+1019,21,18-29,Female,32.68,Obesity,2,Has Children,No,Northwest,26018.95052,32.7,26018.95
+1020,51,45-59,Male,37.0,Obesity,0,No Children,No,Southwest,8798.593,37.0,8798.59
+1021,22,18-29,Female,31.02,Obesity,3,Has Children,Yes,Southeast,35595.5898,31.0,35595.59
+1022,47,45-59,Male,36.08,Obesity,1,Has Children,Yes,Southeast,42211.1382,36.1,42211.14
+1023,18,18-29,Male,23.32,Normal weight,1,Has Children,No,Southeast,1711.0268,23.3,1711.03
+1024,47,45-59,Female,45.32,Obesity,1,Has Children,No,Southeast,8569.8618,45.3,8569.86
+1025,21,18-29,Female,34.6,Obesity,0,No Children,No,Southwest,2020.177,34.6,2020.18
+1026,19,18-29,Male,26.03,Overweight,1,Has Children,Yes,Northwest,16450.8947,26.0,16450.89
+1027,23,18-29,Male,18.715,Normal weight,0,No Children,No,Northwest,21595.38229,18.7,21595.38
+1028,54,45-59,Male,31.6,Obesity,0,No Children,No,Southwest,9850.432,31.6,9850.43
+1029,37,30-44,Female,17.29,Underweight,2,Has Children,No,Northeast,6877.9801,17.3,6877.98
+1030,46,45-59,Female,23.655,Normal weight,1,Has Children,Yes,Northwest,21677.28345,23.7,21677.28
+1031,55,45-59,Female,35.2,Obesity,0,No Children,Yes,Southeast,44423.803,35.2,44423.8
+1032,30,30-44,Female,27.93,Overweight,0,No Children,No,Northeast,4137.5227,27.9,4137.52
+1033,18,18-29,Male,21.565,Normal weight,0,No Children,Yes,Northeast,13747.87235,21.6,13747.87
+1034,61,60+,Male,38.38,Obesity,0,No Children,No,Northwest,12950.0712,38.4,12950.07
+1035,54,45-59,Female,23.0,Normal weight,3,Has Children,No,Southwest,12094.478,23.0,12094.48
+1036,22,18-29,Male,37.07,Obesity,2,Has Children,Yes,Southeast,37484.4493,37.1,37484.45
+1037,45,45-59,Female,30.495,Obesity,1,Has Children,Yes,Northwest,39725.51805,30.5,39725.52
+1038,22,18-29,Male,28.88,Overweight,0,No Children,No,Northeast,2250.8352,28.9,2250.84
+1039,19,18-29,Male,27.265,Overweight,2,Has Children,No,Northwest,22493.65964,27.3,22493.66
+1040,35,30-44,Female,28.025,Overweight,0,No Children,Yes,Northwest,20234.85475,28.0,20234.85
+1041,18,18-29,Male,23.085,Normal weight,0,No Children,No,Northeast,1704.70015,23.1,1704.7
+1042,20,18-29,Male,30.685,Obesity,0,No Children,Yes,Northeast,33475.81715,30.7,33475.82
+1043,28,18-29,Female,25.8,Overweight,0,No Children,No,Southwest,3161.454,25.8,3161.45
+1044,55,45-59,Male,35.245,Obesity,1,Has Children,No,Northeast,11394.06555,35.2,11394.07
+1045,43,30-44,Female,24.7,Normal weight,2,Has Children,Yes,Northwest,21880.82,24.7,21880.82
+1046,43,30-44,Female,25.08,Overweight,0,No Children,No,Northeast,7325.0482,25.1,7325.05
+1047,22,18-29,Male,52.58,Obesity,1,Has Children,Yes,Southeast,44501.3982,52.6,44501.4
+1048,25,18-29,Female,22.515,Normal weight,1,Has Children,No,Northwest,3594.17085,22.5,3594.17
+1049,49,45-59,Male,30.9,Obesity,0,No Children,Yes,Southwest,39727.614,30.9,39727.61
+1050,44,30-44,Female,36.955,Obesity,1,Has Children,No,Northwest,8023.13545,37.0,8023.14
+1051,64,60+,Male,26.41,Overweight,0,No Children,No,Northeast,14394.5579,26.4,14394.56
+1052,49,45-59,Male,29.83,Overweight,1,Has Children,No,Northeast,9288.0267,29.8,9288.03
+1053,47,45-59,Male,29.8,Overweight,3,Has Children,Yes,Southwest,25309.489,29.8,25309.49
+1054,27,18-29,Female,21.47,Normal weight,0,No Children,No,Northwest,3353.4703,21.5,3353.47
+1055,55,45-59,Male,27.645,Overweight,0,No Children,No,Northwest,10594.50155,27.6,10594.5
+1056,48,45-59,Female,28.9,Overweight,0,No Children,No,Southwest,8277.523,28.9,8277.52
+1057,45,45-59,Female,31.79,Obesity,0,No Children,No,Southeast,17929.30337,31.8,17929.3
+1058,24,18-29,Female,39.49,Obesity,0,No Children,No,Southeast,2480.9791,39.5,2480.98
+1059,32,30-44,Male,33.82,Obesity,1,Has Children,No,Northwest,4462.7218,33.8,4462.72
+1060,24,18-29,Male,32.01,Obesity,0,No Children,No,Southeast,1981.5819,32.0,1981.58
+1061,57,45-59,Male,27.94,Overweight,1,Has Children,No,Southeast,11554.2236,27.9,11554.22
+1062,59,45-59,Male,41.14,Obesity,1,Has Children,Yes,Southeast,48970.2476,41.1,48970.25
+1063,36,30-44,Male,28.595,Overweight,3,Has Children,No,Northwest,6548.19505,28.6,6548.2
+1064,29,18-29,Female,25.6,Overweight,4,Has Children,No,Southwest,5708.867,25.6,5708.87
+1065,42,30-44,Female,25.3,Overweight,1,Has Children,No,Southwest,7045.499,25.3,7045.5
+1066,48,45-59,Male,37.29,Obesity,2,Has Children,No,Southeast,8978.1851,37.3,8978.19
+1067,39,30-44,Male,42.655,Obesity,0,No Children,No,Northeast,5757.41345,42.7,5757.41
+1068,63,60+,Male,21.66,Normal weight,1,Has Children,No,Northwest,14349.8544,21.7,14349.85
+1069,54,45-59,Female,31.9,Obesity,1,Has Children,No,Southeast,10928.849,31.9,10928.85
+1070,37,30-44,Male,37.07,Obesity,1,Has Children,Yes,Southeast,39871.7043,37.1,39871.7
+1071,63,60+,Male,31.445,Obesity,0,No Children,No,Northeast,13974.45555,31.4,13974.46
+1072,21,18-29,Male,31.255,Obesity,0,No Children,No,Northwest,1909.52745,31.3,1909.53
+1073,54,45-59,Female,28.88,Overweight,2,Has Children,No,Northeast,12096.6512,28.9,12096.65
+1074,60,60+,Female,18.335,Underweight,0,No Children,No,Northeast,13204.28565,18.3,13204.29
+1075,32,30-44,Female,29.59,Overweight,1,Has Children,No,Southeast,4562.8421,29.6,4562.84
+1076,47,45-59,Female,32.0,Obesity,1,Has Children,No,Southwest,8551.347,32.0,8551.35
+1077,21,18-29,Male,26.03,Overweight,0,No Children,No,Northeast,2102.2647,26.0,2102.26
+1078,28,18-29,Male,31.68,Obesity,0,No Children,Yes,Southeast,34672.1472,31.7,34672.15
+1079,63,60+,Male,33.66,Obesity,3,Has Children,No,Southeast,15161.5344,33.7,15161.53
+1080,18,18-29,Male,21.78,Normal weight,2,Has Children,No,Southeast,11884.04858,21.8,11884.05
+1081,32,30-44,Male,27.835,Overweight,1,Has Children,No,Northwest,4454.40265,27.8,4454.4
+1082,38,30-44,Male,19.95,Normal weight,1,Has Children,No,Northwest,5855.9025,20.0,5855.9
+1083,32,30-44,Male,31.5,Obesity,1,Has Children,No,Southwest,4076.497,31.5,4076.5
+1084,62,60+,Female,30.495,Obesity,2,Has Children,No,Northwest,15019.76005,30.5,15019.76
+1085,39,30-44,Female,18.3,Underweight,5,Has Children,Yes,Southwest,19023.26,18.3,19023.26
+1086,55,45-59,Male,28.975,Overweight,0,No Children,No,Northeast,10796.35025,29.0,10796.35
+1087,57,45-59,Male,31.54,Obesity,0,No Children,No,Northwest,11353.2276,31.5,11353.23
+1088,52,45-59,Male,47.74,Obesity,1,Has Children,No,Southeast,9748.9106,47.7,9748.91
+1089,56,45-59,Male,22.1,Normal weight,0,No Children,No,Southwest,10577.087,22.1,10577.09
+1090,47,45-59,Male,36.19,Obesity,0,No Children,Yes,Southeast,41676.0811,36.2,41676.08
+1091,55,45-59,Female,29.83,Overweight,0,No Children,No,Northeast,11286.5387,29.8,11286.54
+1092,23,18-29,Male,32.7,Obesity,3,Has Children,No,Southwest,3591.48,32.7,3591.48
+1093,22,18-29,Female,30.4,Obesity,0,No Children,Yes,Northwest,33907.548,30.4,33907.55
+1094,50,45-59,Female,33.7,Obesity,4,Has Children,No,Southwest,11299.343,33.7,11299.34
+1095,18,18-29,Female,31.35,Obesity,4,Has Children,No,Northeast,4561.1885,31.4,4561.19
+1096,51,45-59,Female,34.96,Obesity,2,Has Children,Yes,Northeast,44641.1974,35.0,44641.2
+1097,22,18-29,Male,33.77,Obesity,0,No Children,No,Southeast,1674.6323,33.8,1674.63
+1098,52,45-59,Female,30.875,Obesity,0,No Children,No,Northeast,23045.56616,30.9,23045.57
+1099,25,18-29,Female,33.99,Obesity,1,Has Children,No,Southeast,3227.1211,34.0,3227.12
+1100,33,30-44,Female,19.095,Normal weight,2,Has Children,Yes,Northeast,16776.30405,19.1,16776.3
+1101,53,45-59,Male,28.6,Overweight,3,Has Children,No,Southwest,11253.421,28.6,11253.42
+1102,29,18-29,Male,38.94,Obesity,1,Has Children,No,Southeast,3471.4096,38.9,3471.41
+1103,58,45-59,Male,36.08,Obesity,0,No Children,No,Southeast,11363.2832,36.1,11363.28
+1104,37,30-44,Male,29.8,Overweight,0,No Children,No,Southwest,20420.60465,29.8,20420.6
+1105,54,45-59,Female,31.24,Obesity,0,No Children,No,Southeast,10338.9316,31.2,10338.93
+1106,49,45-59,Female,29.925,Obesity,0,No Children,No,Northwest,8988.15875,29.9,8988.16
+1107,50,45-59,Female,26.22,Overweight,2,Has Children,No,Northwest,10493.9458,26.2,10493.95
+1108,26,18-29,Male,30.0,Obesity,1,Has Children,No,Southwest,2904.088,30.0,2904.09
+1109,45,45-59,Male,20.35,Normal weight,3,Has Children,No,Southeast,8605.3615,20.4,8605.36
+1110,54,45-59,Female,32.3,Obesity,1,Has Children,No,Northeast,11512.405,32.3,11512.4
+1111,38,30-44,Male,38.39,Obesity,3,Has Children,Yes,Southeast,41949.2441,38.4,41949.24
+1112,48,45-59,Female,25.85,Overweight,3,Has Children,Yes,Southeast,24180.9335,25.8,24180.93
+1113,28,18-29,Female,26.315,Overweight,3,Has Children,No,Northwest,5312.16985,26.3,5312.17
+1114,23,18-29,Male,24.51,Normal weight,0,No Children,No,Northeast,2396.0959,24.5,2396.1
+1115,55,45-59,Male,32.67,Obesity,1,Has Children,No,Southeast,10807.4863,32.7,10807.49
+1116,41,30-44,Male,29.64,Overweight,5,Has Children,No,Northeast,9222.4026,29.6,9222.4
+1117,25,18-29,Male,33.33,Obesity,2,Has Children,Yes,Southeast,36124.5737,33.3,36124.57
+1118,33,30-44,Male,35.75,Obesity,1,Has Children,Yes,Southeast,38282.7495,35.8,38282.75
+1119,30,30-44,Female,19.95,Normal weight,3,Has Children,No,Northwest,5693.4305,20.0,5693.43
+1120,23,18-29,Female,31.4,Obesity,0,No Children,Yes,Southwest,34166.273,31.4,34166.27
+1121,46,45-59,Male,38.17,Obesity,2,Has Children,No,Southeast,8347.1643,38.2,8347.16
+1122,53,45-59,Female,36.86,Obesity,3,Has Children,Yes,Northwest,46661.4424,36.9,46661.44
+1123,27,18-29,Female,32.395,Obesity,1,Has Children,No,Northeast,18903.49141,32.4,18903.49
+1124,23,18-29,Female,42.75,Obesity,1,Has Children,Yes,Northeast,40904.1995,42.8,40904.2
+1125,63,60+,Female,25.08,Overweight,0,No Children,No,Northwest,14254.6082,25.1,14254.61
+1126,55,45-59,Male,29.9,Overweight,0,No Children,No,Southwest,10214.636,29.9,10214.64
+1127,35,30-44,Female,35.86,Obesity,2,Has Children,No,Southeast,5836.5204,35.9,5836.52
+1128,34,30-44,Male,32.8,Obesity,1,Has Children,No,Southwest,14358.36437,32.8,14358.36
+1129,19,18-29,Female,18.6,Normal weight,0,No Children,No,Southwest,1728.897,18.6,1728.9
+1130,39,30-44,Female,23.87,Normal weight,5,Has Children,No,Southeast,8582.3023,23.9,8582.3
+1131,27,18-29,Male,45.9,Obesity,2,Has Children,No,Southwest,3693.428,45.9,3693.43
+1132,57,45-59,Male,40.28,Obesity,0,No Children,No,Northeast,20709.02034,40.3,20709.02
+1133,52,45-59,Female,18.335,Underweight,0,No Children,No,Northwest,9991.03765,18.3,9991.04
+1134,28,18-29,Male,33.82,Obesity,0,No Children,No,Northwest,19673.33573,33.8,19673.34
+1135,50,45-59,Female,28.12,Overweight,3,Has Children,No,Northwest,11085.5868,28.1,11085.59
+1136,44,30-44,Female,25.0,Overweight,1,Has Children,No,Southwest,7623.518,25.0,7623.52
+1137,26,18-29,Female,22.23,Normal weight,0,No Children,No,Northwest,3176.2877,22.2,3176.29
+1138,33,30-44,Male,30.25,Obesity,0,No Children,No,Southeast,3704.3545,30.2,3704.35
+1139,19,18-29,Female,32.49,Obesity,0,No Children,Yes,Northwest,36898.73308,32.5,36898.73
+1140,50,45-59,Male,37.07,Obesity,1,Has Children,No,Southeast,9048.0273,37.1,9048.03
+1141,41,30-44,Female,32.6,Obesity,3,Has Children,No,Southwest,7954.517,32.6,7954.52
+1142,52,45-59,Female,24.86,Normal weight,0,No Children,No,Southeast,27117.99378,24.9,27117.99
+1143,39,30-44,Male,32.34,Obesity,2,Has Children,No,Southeast,6338.0756,32.3,6338.08
+1144,50,45-59,Male,32.3,Obesity,2,Has Children,No,Southwest,9630.397,32.3,9630.4
+1145,52,45-59,Male,32.775,Obesity,3,Has Children,No,Northwest,11289.10925,32.8,11289.11
+1146,60,60+,Male,32.8,Obesity,0,No Children,Yes,Southwest,52590.82939,32.8,52590.83
+1147,20,18-29,Female,31.92,Obesity,0,No Children,No,Northwest,2261.5688,31.9,2261.57
+1148,55,45-59,Male,21.5,Normal weight,1,Has Children,No,Southwest,10791.96,21.5,10791.96
+1149,42,30-44,Male,34.1,Obesity,0,No Children,No,Southwest,5979.731,34.1,5979.73
+1150,18,18-29,Female,30.305,Obesity,0,No Children,No,Northeast,2203.73595,30.3,2203.74
+1151,58,45-59,Female,36.48,Obesity,0,No Children,No,Northwest,12235.8392,36.5,12235.84
+1152,43,30-44,Female,32.56,Obesity,3,Has Children,Yes,Southeast,40941.2854,32.6,40941.29
+1153,35,30-44,Female,35.815,Obesity,1,Has Children,No,Northwest,5630.45785,35.8,5630.46
+1154,48,45-59,Female,27.93,Overweight,4,Has Children,No,Northwest,11015.1747,27.9,11015.17
+1155,36,30-44,Female,22.135,Normal weight,3,Has Children,No,Northeast,7228.21565,22.1,7228.22
+1156,19,18-29,Male,44.88,Obesity,0,No Children,Yes,Southeast,39722.7462,44.9,39722.75
+1157,23,18-29,Female,23.18,Normal weight,2,Has Children,No,Northwest,14426.07385,23.2,14426.07
+1158,20,18-29,Female,30.59,Obesity,0,No Children,No,Northeast,2459.7201,30.6,2459.72
+1159,32,30-44,Female,41.1,Obesity,0,No Children,No,Southwest,3989.841,41.1,3989.84
+1160,43,30-44,Female,34.58,Obesity,1,Has Children,No,Northwest,7727.2532,34.6,7727.25
+1161,34,30-44,Male,42.13,Obesity,2,Has Children,No,Southeast,5124.1887,42.1,5124.19
+1162,30,30-44,Male,38.83,Obesity,1,Has Children,No,Southeast,18963.17192,38.8,18963.17
+1163,18,18-29,Female,28.215,Overweight,0,No Children,No,Northeast,2200.83085,28.2,2200.83
+1164,41,30-44,Female,28.31,Overweight,1,Has Children,No,Northwest,7153.5539,28.3,7153.55
+1165,35,30-44,Female,26.125,Overweight,0,No Children,No,Northeast,5227.98875,26.1,5227.99
+1166,57,45-59,Male,40.37,Obesity,0,No Children,No,Southeast,10982.5013,40.4,10982.5
+1167,29,18-29,Female,24.6,Normal weight,2,Has Children,No,Southwest,4529.477,24.6,4529.48
+1168,32,30-44,Male,35.2,Obesity,2,Has Children,No,Southwest,4670.64,35.2,4670.64
+1169,37,30-44,Female,34.105,Obesity,1,Has Children,No,Northwest,6112.35295,34.1,6112.35
+1170,18,18-29,Male,27.36,Overweight,1,Has Children,Yes,Northeast,17178.6824,27.4,17178.68
+1171,43,30-44,Female,26.7,Overweight,2,Has Children,Yes,Southwest,22478.6,26.7,22478.6
+1172,56,45-59,Female,41.91,Obesity,0,No Children,No,Southeast,11093.6229,41.9,11093.62
+1173,38,30-44,Male,29.26,Overweight,2,Has Children,No,Northwest,6457.8434,29.3,6457.84
+1174,29,18-29,Male,32.11,Obesity,2,Has Children,No,Northwest,4433.9159,32.1,4433.92
+1175,22,18-29,Female,27.1,Overweight,0,No Children,No,Southwest,2154.361,27.1,2154.36
+1176,52,45-59,Female,24.13,Normal weight,1,Has Children,Yes,Northwest,23887.6627,24.1,23887.66
+1177,40,30-44,Female,27.4,Overweight,1,Has Children,No,Southwest,6496.886,27.4,6496.89
+1178,23,18-29,Female,34.865,Obesity,0,No Children,No,Northeast,2899.48935,34.9,2899.49
+1179,31,30-44,Male,29.81,Overweight,0,No Children,Yes,Southeast,19350.3689,29.8,19350.37
+1180,42,30-44,Female,41.325,Obesity,1,Has Children,No,Northeast,7650.77375,41.3,7650.77
+1181,24,18-29,Female,29.925,Obesity,0,No Children,No,Northwest,2850.68375,29.9,2850.68
+1182,25,18-29,Female,30.3,Obesity,0,No Children,No,Southwest,2632.992,30.3,2632.99
+1183,48,45-59,Female,27.36,Overweight,1,Has Children,No,Northeast,9447.3824,27.4,9447.38
+1184,23,18-29,Female,28.49,Overweight,1,Has Children,Yes,Southeast,18328.2381,28.5,18328.24
+1185,45,45-59,Male,23.56,Normal weight,2,Has Children,No,Northeast,8603.8234,23.6,8603.82
+1186,20,18-29,Male,35.625,Obesity,3,Has Children,Yes,Northwest,37465.34375,35.6,37465.34
+1187,62,60+,Female,32.68,Obesity,0,No Children,No,Northwest,13844.7972,32.7,13844.8
+1188,43,30-44,Female,25.27,Overweight,1,Has Children,Yes,Northeast,21771.3423,25.3,21771.34
+1189,23,18-29,Female,28.0,Overweight,0,No Children,No,Southwest,13126.67745,28.0,13126.68
+1190,31,30-44,Female,32.775,Obesity,2,Has Children,No,Northwest,5327.40025,32.8,5327.4
+1191,41,30-44,Female,21.755,Normal weight,1,Has Children,No,Northeast,13725.47184,21.8,13725.47
+1192,58,45-59,Female,32.395,Obesity,1,Has Children,No,Northeast,13019.16105,32.4,13019.16
+1193,48,45-59,Female,36.575,Obesity,0,No Children,No,Northwest,8671.19125,36.6,8671.19
+1194,31,30-44,Female,21.755,Normal weight,0,No Children,No,Northwest,4134.08245,21.8,4134.08
+1195,19,18-29,Female,27.93,Overweight,3,Has Children,No,Northwest,18838.70366,27.9,18838.7
+1196,19,18-29,Female,30.02,Obesity,0,No Children,Yes,Northwest,33307.5508,30.0,33307.55
+1197,41,30-44,Male,33.55,Obesity,0,No Children,No,Southeast,5699.8375,33.6,5699.84
+1198,40,30-44,Male,29.355,Overweight,1,Has Children,No,Northwest,6393.60345,29.4,6393.6
+1199,31,30-44,Female,25.8,Overweight,2,Has Children,No,Southwest,4934.705,25.8,4934.7
+1200,37,30-44,Male,24.32,Normal weight,2,Has Children,No,Northwest,6198.7518,24.3,6198.75
+1201,46,45-59,Male,40.375,Obesity,2,Has Children,No,Northwest,8733.22925,40.4,8733.23
+1202,22,18-29,Male,32.11,Obesity,0,No Children,No,Northwest,2055.3249,32.1,2055.32
+1203,51,45-59,Male,32.3,Obesity,1,Has Children,No,Northeast,9964.06,32.3,9964.06
+1204,18,18-29,Female,27.28,Overweight,3,Has Children,Yes,Southeast,18223.4512,27.3,18223.45
+1205,35,30-44,Male,17.86,Underweight,1,Has Children,No,Northwest,5116.5004,17.9,5116.5
+1206,59,45-59,Female,34.8,Obesity,2,Has Children,No,Southwest,36910.60803,34.8,36910.61
+1207,36,30-44,Male,33.4,Obesity,2,Has Children,Yes,Southwest,38415.474,33.4,38415.47
+1208,37,30-44,Female,25.555,Overweight,1,Has Children,Yes,Northeast,20296.86345,25.6,20296.86
+1209,59,45-59,Male,37.1,Obesity,1,Has Children,No,Southwest,12347.172,37.1,12347.17
+1210,36,30-44,Male,30.875,Obesity,1,Has Children,No,Northwest,5373.36425,30.9,5373.36
+1211,39,30-44,Male,34.1,Obesity,2,Has Children,No,Southeast,23563.01618,34.1,23563.02
+1212,18,18-29,Male,21.47,Normal weight,0,No Children,No,Northeast,1702.4553,21.5,1702.46
+1213,52,45-59,Female,33.3,Obesity,2,Has Children,No,Southwest,10806.839,33.3,10806.84
+1214,27,18-29,Female,31.255,Obesity,1,Has Children,No,Northwest,3956.07145,31.3,3956.07
+1215,18,18-29,Male,39.14,Obesity,0,No Children,No,Northeast,12890.05765,39.1,12890.06
+1216,40,30-44,Male,25.08,Overweight,0,No Children,No,Southeast,5415.6612,25.1,5415.66
+1217,29,18-29,Male,37.29,Obesity,2,Has Children,No,Southeast,4058.1161,37.3,4058.12
+1218,46,45-59,Female,34.6,Obesity,1,Has Children,Yes,Southwest,41661.602,34.6,41661.6
+1219,38,30-44,Female,30.21,Obesity,3,Has Children,No,Northwest,7537.1639,30.2,7537.16
+1220,30,30-44,Female,21.945,Normal weight,1,Has Children,No,Northeast,4718.20355,21.9,4718.2
+1221,40,30-44,Male,24.97,Overweight,2,Has Children,No,Southeast,6593.5083,25.0,6593.51
+1222,50,45-59,Male,25.3,Overweight,0,No Children,No,Southeast,8442.667,25.3,8442.67
+1223,20,18-29,Female,24.42,Normal weight,0,No Children,Yes,Southeast,26125.67477,24.4,26125.67
+1224,41,30-44,Male,23.94,Normal weight,1,Has Children,No,Northeast,6858.4796,23.9,6858.48
+1225,33,30-44,Female,39.82,Obesity,1,Has Children,No,Southeast,4795.6568,39.8,4795.66
+1226,38,30-44,Male,16.815,Underweight,2,Has Children,No,Northeast,6640.54485,16.8,6640.54
+1227,42,30-44,Male,37.18,Obesity,2,Has Children,No,Southeast,7162.0122,37.2,7162.01
+1228,56,45-59,Male,34.43,Obesity,0,No Children,No,Southeast,10594.2257,34.4,10594.23
+1229,58,45-59,Male,30.305,Obesity,0,No Children,No,Northeast,11938.25595,30.3,11938.26
+1230,52,45-59,Male,34.485,Obesity,3,Has Children,Yes,Northwest,60021.39897,34.5,60021.4
+1231,20,18-29,Female,21.8,Normal weight,0,No Children,Yes,Southwest,20167.33603,21.8,20167.34
+1232,54,45-59,Female,24.605,Normal weight,3,Has Children,No,Northwest,12479.70895,24.6,12479.71
+1233,58,45-59,Male,23.3,Normal weight,0,No Children,No,Southwest,11345.519,23.3,11345.52
+1234,45,45-59,Female,27.83,Overweight,2,Has Children,No,Southeast,8515.7587,27.8,8515.76
+1235,26,18-29,Male,31.065,Obesity,0,No Children,No,Northwest,2699.56835,31.1,2699.57
+1236,63,60+,Female,21.66,Normal weight,0,No Children,No,Northeast,14449.8544,21.7,14449.85
+1237,58,45-59,Female,28.215,Overweight,0,No Children,No,Northwest,12224.35085,28.2,12224.35
+1238,37,30-44,Male,22.705,Normal weight,3,Has Children,No,Northeast,6985.50695,22.7,6985.51
+1239,25,18-29,Female,42.13,Obesity,1,Has Children,No,Southeast,3238.4357,42.1,3238.44
+1240,52,45-59,Male,41.8,Obesity,2,Has Children,Yes,Southeast,47269.854,41.8,47269.85
+1241,64,60+,Male,36.96,Obesity,2,Has Children,Yes,Southeast,49577.6624,37.0,49577.66
+1242,22,18-29,Female,21.28,Normal weight,3,Has Children,No,Northwest,4296.2712,21.3,4296.27
+1243,28,18-29,Female,33.11,Obesity,0,No Children,No,Southeast,3171.6149,33.1,3171.61
+1244,18,18-29,Male,33.33,Obesity,0,No Children,No,Southeast,1135.9407,33.3,1135.94
+1245,28,18-29,Male,24.3,Normal weight,5,Has Children,No,Southwest,5615.369,24.3,5615.37
+1246,45,45-59,Female,25.7,Overweight,3,Has Children,No,Southwest,9101.798,25.7,9101.8
+1247,33,30-44,Male,29.4,Overweight,4,Has Children,No,Southwest,6059.173,29.4,6059.17
+1248,18,18-29,Female,39.82,Obesity,0,No Children,No,Southeast,1633.9618,39.8,1633.96
+1249,32,30-44,Male,33.63,Obesity,1,Has Children,Yes,Northeast,37607.5277,33.6,37607.53
+1250,24,18-29,Male,29.83,Overweight,0,No Children,Yes,Northeast,18648.4217,29.8,18648.42
+1251,19,18-29,Male,19.8,Normal weight,0,No Children,No,Southwest,1241.565,19.8,1241.56
+1252,20,18-29,Male,27.3,Overweight,0,No Children,Yes,Southwest,16232.847,27.3,16232.85
+1253,40,30-44,Female,29.3,Overweight,4,Has Children,No,Southwest,15828.82173,29.3,15828.82
+1254,34,30-44,Female,27.72,Overweight,0,No Children,No,Southeast,4415.1588,27.7,4415.16
+1255,42,30-44,Female,37.9,Obesity,0,No Children,No,Southwest,6474.013,37.9,6474.01
+1256,51,45-59,Female,36.385,Obesity,3,Has Children,No,Northwest,11436.73815,36.4,11436.74
+1257,54,45-59,Female,27.645,Overweight,1,Has Children,No,Northwest,11305.93455,27.6,11305.93
+1258,55,45-59,Male,37.715,Obesity,3,Has Children,No,Northwest,30063.58055,37.7,30063.58
+1259,52,45-59,Female,23.18,Normal weight,0,No Children,No,Northeast,10197.7722,23.2,10197.77
+1260,32,30-44,Female,20.52,Normal weight,0,No Children,No,Northeast,4544.2348,20.5,4544.23
+1261,28,18-29,Male,37.1,Obesity,1,Has Children,No,Southwest,3277.161,37.1,3277.16
+1262,41,30-44,Female,28.05,Overweight,1,Has Children,No,Southeast,6770.1925,28.0,6770.19
+1263,43,30-44,Female,29.9,Overweight,1,Has Children,No,Southwest,7337.748,29.9,7337.75
+1264,49,45-59,Female,33.345,Obesity,2,Has Children,No,Northeast,10370.91255,33.3,10370.91
+1265,64,60+,Male,23.76,Normal weight,0,No Children,Yes,Southeast,26926.5144,23.8,26926.51
+1266,55,45-59,Female,30.5,Obesity,0,No Children,No,Southwest,10704.47,30.5,10704.47
+1267,24,18-29,Male,31.065,Obesity,0,No Children,Yes,Northeast,34254.05335,31.1,34254.05
+1268,20,18-29,Female,33.3,Obesity,0,No Children,No,Southwest,1880.487,33.3,1880.49
+1269,45,45-59,Male,27.5,Overweight,3,Has Children,No,Southwest,8615.3,27.5,8615.3
+1270,26,18-29,Male,33.915,Obesity,1,Has Children,No,Northwest,3292.52985,33.9,3292.53
+1271,25,18-29,Female,34.485,Obesity,0,No Children,No,Northwest,3021.80915,34.5,3021.81
+1272,43,30-44,Male,25.52,Overweight,5,Has Children,No,Southeast,14478.33015,25.5,14478.33
+1273,35,30-44,Male,27.61,Overweight,1,Has Children,No,Southeast,4747.0529,27.6,4747.05
+1274,26,18-29,Male,27.06,Overweight,0,No Children,Yes,Southeast,17043.3414,27.1,17043.34
+1275,57,45-59,Male,23.7,Normal weight,0,No Children,No,Southwest,10959.33,23.7,10959.33
+1276,22,18-29,Female,30.4,Obesity,0,No Children,No,Northeast,2741.948,30.4,2741.95
+1277,32,30-44,Female,29.735,Overweight,0,No Children,No,Northwest,4357.04365,29.7,4357.04
+1278,39,30-44,Male,29.925,Obesity,1,Has Children,Yes,Northeast,22462.04375,29.9,22462.04
+1279,25,18-29,Female,26.79,Overweight,2,Has Children,No,Northwest,4189.1131,26.8,4189.11
+1280,48,45-59,Female,33.33,Obesity,0,No Children,No,Southeast,8283.6807,33.3,8283.68
+1281,47,45-59,Female,27.645,Overweight,2,Has Children,Yes,Northwest,24535.69855,27.6,24535.7
+1282,18,18-29,Female,21.66,Normal weight,0,No Children,Yes,Northeast,14283.4594,21.7,14283.46
+1283,18,18-29,Male,30.03,Obesity,1,Has Children,No,Southeast,1720.3537,30.0,1720.35
+1284,61,60+,Male,36.3,Obesity,1,Has Children,Yes,Southwest,47403.88,36.3,47403.88
+1285,47,45-59,Female,24.32,Normal weight,0,No Children,No,Northeast,8534.6718,24.3,8534.67
+1286,28,18-29,Female,17.29,Underweight,0,No Children,No,Northeast,3732.6251,17.3,3732.63
+1287,36,30-44,Female,25.9,Overweight,1,Has Children,No,Southwest,5472.449,25.9,5472.45
+1288,20,18-29,Male,39.4,Obesity,2,Has Children,Yes,Southwest,38344.566,39.4,38344.57
+1289,44,30-44,Male,34.32,Obesity,1,Has Children,No,Southeast,7147.4728,34.3,7147.47
+1290,38,30-44,Female,19.95,Normal weight,2,Has Children,No,Northeast,7133.9025,20.0,7133.9
+1291,19,18-29,Male,34.9,Obesity,0,No Children,Yes,Southwest,34828.654,34.9,34828.65
+1292,21,18-29,Male,23.21,Normal weight,0,No Children,No,Southeast,1515.3449,23.2,1515.34
+1293,46,45-59,Male,25.745,Overweight,3,Has Children,No,Northwest,9301.89355,25.7,9301.89
+1294,58,45-59,Male,25.175,Overweight,0,No Children,No,Northeast,11931.12525,25.2,11931.13
+1295,20,18-29,Male,22.0,Normal weight,1,Has Children,No,Southwest,1964.78,22.0,1964.78
+1296,18,18-29,Male,26.125,Overweight,0,No Children,No,Northeast,1708.92575,26.1,1708.93
+1297,28,18-29,Female,26.51,Overweight,2,Has Children,No,Southeast,4340.4409,26.5,4340.44
+1298,33,30-44,Male,27.455,Overweight,2,Has Children,No,Northwest,5261.46945,27.5,5261.47
+1299,19,18-29,Female,25.745,Overweight,1,Has Children,No,Northwest,2710.82855,25.7,2710.83
+1300,45,45-59,Male,30.36,Obesity,0,No Children,Yes,Southeast,62592.87309,30.4,62592.87
+1301,62,60+,Male,30.875,Obesity,3,Has Children,Yes,Northwest,46718.16325,30.9,46718.16
+1302,25,18-29,Female,20.8,Normal weight,1,Has Children,No,Southwest,3208.787,20.8,3208.79
+1303,43,30-44,Male,27.8,Overweight,0,No Children,Yes,Southwest,37829.7242,27.8,37829.72
+1304,42,30-44,Male,24.605,Normal weight,2,Has Children,Yes,Northeast,21259.37795,24.6,21259.38
+1305,24,18-29,Female,27.72,Overweight,0,No Children,No,Southeast,2464.6188,27.7,2464.62
+1306,29,18-29,Female,21.85,Normal weight,0,No Children,Yes,Northeast,16115.3045,21.8,16115.3
+1307,32,30-44,Male,28.12,Overweight,4,Has Children,Yes,Northwest,21472.4788,28.1,21472.48
+1308,25,18-29,Female,30.2,Obesity,0,No Children,Yes,Southwest,33900.653,30.2,33900.65
+1309,41,30-44,Male,32.2,Obesity,2,Has Children,No,Southwest,6875.961,32.2,6875.96
+1310,42,30-44,Male,26.315,Overweight,1,Has Children,No,Northwest,6940.90985,26.3,6940.91
+1311,33,30-44,Female,26.695,Overweight,0,No Children,No,Northwest,4571.41305,26.7,4571.41
+1312,34,30-44,Male,42.9,Obesity,1,Has Children,No,Southwest,4536.259,42.9,4536.26
+1313,19,18-29,Female,34.7,Obesity,2,Has Children,Yes,Southwest,36397.576,34.7,36397.58
+1314,30,30-44,Female,23.655,Normal weight,3,Has Children,Yes,Northwest,18765.87545,23.7,18765.88
+1315,18,18-29,Male,28.31,Overweight,1,Has Children,No,Northeast,11272.33139,28.3,11272.33
+1316,19,18-29,Female,20.6,Normal weight,0,No Children,No,Southwest,1731.677,20.6,1731.68
+1317,18,18-29,Male,53.13,Obesity,0,No Children,No,Southeast,1163.4627,53.1,1163.46
+1318,35,30-44,Male,39.71,Obesity,4,Has Children,No,Northeast,19496.71917,39.7,19496.72
+1319,39,30-44,Female,26.315,Overweight,2,Has Children,No,Northwest,7201.70085,26.3,7201.7
+1320,31,30-44,Male,31.065,Obesity,3,Has Children,No,Northwest,5425.02335,31.1,5425.02
+1321,62,60+,Male,26.695,Overweight,0,No Children,Yes,Northeast,28101.33305,26.7,28101.33
+1322,62,60+,Male,38.83,Obesity,0,No Children,No,Southeast,12981.3457,38.8,12981.35
+1323,42,30-44,Female,40.37,Obesity,2,Has Children,Yes,Southeast,43896.3763,40.4,43896.38
+1324,31,30-44,Male,25.935,Overweight,1,Has Children,No,Northwest,4239.89265,25.9,4239.89
+1325,61,60+,Male,33.535,Obesity,0,No Children,No,Northeast,13143.33665,33.5,13143.34
+1326,42,30-44,Female,32.87,Obesity,0,No Children,No,Northeast,7050.0213,32.9,7050.02
+1327,51,45-59,Male,30.03,Obesity,1,Has Children,No,Southeast,9377.9047,30.0,9377.9
+1328,23,18-29,Female,24.225,Normal weight,2,Has Children,No,Northeast,22395.74424,24.2,22395.74
+1329,52,45-59,Male,38.6,Obesity,2,Has Children,No,Southwest,10325.206,38.6,10325.21
+1330,57,45-59,Female,25.74,Overweight,2,Has Children,No,Southeast,12629.1656,25.7,12629.17
+1331,23,18-29,Female,33.4,Obesity,0,No Children,No,Southwest,10795.93733,33.4,10795.94
+1332,52,45-59,Female,44.7,Obesity,3,Has Children,No,Southwest,11411.685,44.7,11411.68
+1333,50,45-59,Male,30.97,Obesity,3,Has Children,No,Northwest,10600.5483,31.0,10600.55
+1334,18,18-29,Female,31.92,Obesity,0,No Children,No,Northeast,2205.9808,31.9,2205.98
+1335,18,18-29,Female,36.85,Obesity,0,No Children,No,Southeast,1629.8335,36.8,1629.83
+1336,21,18-29,Female,25.8,Overweight,0,No Children,No,Southwest,2007.945,25.8,2007.94
+1337,61,60+,Female,29.07,Overweight,0,No Children,Yes,Northwest,29141.3603,29.1,29141.36
