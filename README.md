@@ -3,10 +3,11 @@
 ## Health Insurance analysis
 
 This repository has been created as part of an educational team activity to obtain, clean and analyse data relating to health insurance, to provide meaningful findings from the data. The team allocated roles and worked collaboratively to ensure an end deliverable that met the brief:
-Project Manager: Rachel Fallon
-Data Archtect: Eden Elvin
-Data Analyst-VSCode: Diana Milligan
-Data Analyst-PowerBI: Matt Jacobs
+
+* Project Manager: Rachel Fallon
+* Data Archtect: Eden Elvin
+* Data Analyst-VSCode: Diana Milligan
+* Data Analyst-PowerBI: Matt Jacobs
 
 The brief is to provide basic descriptive statistics with the cleaned/transformed data, to provide correlation analysis and provide predictive/interactive visualisations.
 
@@ -14,7 +15,7 @@ The brief is to provide basic descriptive statistics with the cleaned/transforme
 
 * The publically-available data was obtained from Kaggle (<https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance>)
 
-< EDEN TO COMPLETE>
+< EDEN TO COMPLETE "Describe your dataset and the steps taken to be ready for analysis" >
 
 ## Business Requirements
 
@@ -26,17 +27,18 @@ Analyse healthcare insurance data to understand how personal attributes and geog
 < Diana to complete for VS Code>
 
 < Matt to complete for Power BI>
+*Being worked on
 
 ## Project Plan
 
 * Firstly, the roles mentioned in the intro were agreed by the team
 * Team chose a data set that none had done before, so all steps would be done from scratch
-* Team opted to use PowerBI as their dashboarding tool with a view to it being the more widely used of the off-the-shelf visualisation tool and for its user-familiarity for anyone with MS Office experience
+* Team opted to use PowerBI as their dashboarding tool with a view to it being the more widely used of the off-the-shelf visualisation tools and for its user-familiarity for anyone with MS Office experience
 * Team collectively reviewed the chosen dataset, and collaboratively agreed what might be good hypotheses and therefore how any data transformation might need to be structured to support them e.g. grouping customer BMI into standard classifications.
-* The PM then took the high level steps (obtain, clean, transform,load,analyse, create visualisations) and broke them down to individual tasks and allocated to the appropriate role
-* Milestones (timeslots) and labels were then allocated
+* The PM then took the high level steps (obtain, clean, transform,load,analyse, create visualisations) and broke them down to individual tasks into user stories and allocated to the appropriate role
+* Milestones (timeslots) and labels were then added to the user stories
 * All user stories were created in standard format in CSV and then uploaded to GitHub via an adaptation of the following repo - <https://github.com/FaraiB/csv-to-github/tree/main>
-* All team members 'sat' together in a virtual environment for the duration, with twice-daily calls to track progress and solve any problems/blockers
+* All team members 'sat' together in a virtual environment for the duration, with twice-daily calls to track progress and solve any problems/blockers.
 
 ## Mapping the business requirements to the data visualisations
 
@@ -67,7 +69,7 @@ Analyse healthcare insurance data to understand how personal attributes and geog
 
 ## Main data analysis libraries
 
-<<Diana to complete. "Here you should list the libraries you used in the project and provide an example(s) of how you used these libraries">>
+<< Diana to complete. "Here you should list the libraries you used in the project and provide an example(s) of how you used these libraries">>
 
 ## Credits
 
