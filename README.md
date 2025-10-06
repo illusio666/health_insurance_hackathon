@@ -27,6 +27,7 @@ Analyse healthcare insurance data to understand how personal attributes and geog
 < Diana to complete for VS Code>
 
 < Matt to complete for Power BI>
+*Being worked on
 
 ## Project Plan
 
