@@ -17,6 +17,8 @@ The brief is to provide basic descriptive statistics with the cleaned/transforme
 
 < EDEN TO COMPLETE "Describe your dataset and the steps taken to be ready for analysis" >
 
+People with a South Asian, Chinese, other Asian, Middle Eastern, Black African or African–Caribbean background are prone to central adiposity and their cardiometabolic risk occurs at lower BMI, but ethnicity data is not available in this dataset. Therefore the 'standard' BMI ranges have been used, but would need improvement in the data set to be used in real life.
+
 ## Business Requirements
 
 * The brief was as follows:
@@ -34,7 +36,7 @@ Analyse healthcare insurance data to understand how personal attributes and geog
 * Team chose a data set that none had done before, so all steps would be done from scratch
 * Team opted to use PowerBI as their dashboarding tool with a view to it being the more widely used of the off-the-shelf visualisation tools and for its user-familiarity for anyone with MS Office experience
 * Team collectively reviewed the chosen dataset, and collaboratively agreed what might be good hypotheses and therefore how any data transformation might need to be structured to support them e.g. grouping customer BMI into standard classifications.
-* The PM then took the high level steps (obtain, clean, transform,load,analyse, create visualisations) and broke them down to individual tasks into user stories and allocated to the appropriate role
+* The PM then took the high level steps (obtain, clean, transform,load,analyse, create visualisations) and broke them down to individual tasks, converted into user stories and allocated to the appropriate role
 * Milestones (timeslots) and labels were then added to the user stories
 * All user stories were created in standard format in CSV and then uploaded to GitHub via an adaptation of the following repo - <https://github.com/FaraiB/csv-to-github/tree/main>
 * All team members 'sat' together in a virtual environment for the duration, with twice-daily calls to track progress and solve any problems/blockers.
