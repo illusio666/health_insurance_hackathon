@@ -30,8 +30,8 @@ Sorted the columns:
 I had sorted the columns in the dataset, to make it easier to navigate
 
 Filled in the new columns:
-The range I have used for the age ranges was: 0-17, 18 - 29, 30 - 44, 45-59, 60+
-The range I have used for the BMI ranges was: >18.5 = underweight, 18.5 - 24.9 = normal weight, 25 - 29.9 = overweight, 30+ = obesity
+The range I have used for the age ranges was: 18-25, 26 - 35, 36 - 45, 46-55, 56-65
+The range I have used for the BMI ranges was: >18.5 = underweight, 18.5 - 24.9 = normal weight, 25 - 29.9 = overweight, 30 - 39.9 = obese, 40+ morbidly obese
 The family status check was: 0 = no children, 1+ has children
 
 Capitalization: I capitalized the column names and the words within the data set to make it look a bit nicer
