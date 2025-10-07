@@ -15,7 +15,31 @@ The brief is to provide basic descriptive statistics with the cleaned/transforme
 
 * The publically-available data was obtained from Kaggle (<https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance>)
 
-< EDEN TO COMPLETE "Describe your dataset and the steps taken to be ready for analysis" >
+The dataset was very clean, not having that many issues, in fact just 1 slight issue with it, but what I have done to clean it so it can be analysed is:
+
+Check for null cells: This allows me to see if there are any rows of data that are incomplete, for this dataset. There were no null cells but if there were any null cells in the dataset, I would have spoken to my team about how they would have wanted them to be sorted.
+
+Check for duplicated rows: The reason for checking for duplicated rows is that it can create a skew in the analysis part of the project.There was a duplicated row, there is a slight chance this isn’t the same person, however we elected to delete the duplicated row.
+
+New columns into the dataset:
+Age Ranges: we wanted age ranges to make it easier for visualisation
+BMI Ranges: we wanted BMI ranges to make it easier for visualisation
+Family status: we wanted to check if someone having children affects their charges
+
+Sorted the columns:
+I had sorted the columns in the dataset, to make it easier to navigate
+
+Filled in the new columns:
+The range I have used for the age ranges was: 0-17, 18 - 29, 30 - 44, 45-59, 60+
+The range I have used for the BMI ranges was: >18.5 = underweight, 18.5 - 24.9 = normal weight, 25 - 29.9 = overweight, 30+ = obesity
+The family status check was: 0 = no children, 1+ has children
+
+Capitalization: I capitalized the column names and the words within the data set to make it look a bit nicer
+
+Rounding decimals: I rounded the BMI to 1 decimal place to make that column less overwhelming, and the Charges to 2 decimal places as it is a financial column
+
+I then updated the transformed dataset into 2 different files, to make them accessible to the people doing data visualisation on my team
+
 
 People with a South Asian, Chinese, other Asian, Middle Eastern, Black African or African–Caribbean background are prone to central adiposity and their cardiometabolic risk occurs at lower BMI, but ethnicity data is not available in this dataset. Therefore the 'standard' BMI ranges have been used, but would need improvement in the data set to be used in real life.
 
