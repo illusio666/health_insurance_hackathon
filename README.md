@@ -108,7 +108,7 @@ Mapped to 'Interactive BMI vs. Charges Plot' (visualisation 6), which integrates
 
 
 
-## Analysis techniques used 
+## Analysis techniques used
 
 Given the type and volume of data we had access to in this project, the majority of the analysis is Descriptive in nature, reporting on trends, summarising current data and making observations around it. We have seen patterns develop, often in keeping with the original hypothesis plan we set out; however, this was not always the case, as with smoker levels within different age groups. With additional data, we would have been able to start asking more pointed questions, allowing us to perform Diagnostic analysis, looking at the reasons why smoking levels, for example, decline. Was this because people started to stop? If so, why? Or is their life expectancy shorter, and as such, not a part of the data set for existing customers?
 
