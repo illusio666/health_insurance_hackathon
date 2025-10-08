@@ -52,20 +52,21 @@ Note: Ethnicity data was not available. Standard BMI ranges were used, though re
 - Stories were bulk-uploaded to GitHub using a CSV-to-issue workflow (repo link)
 - The team worked in a virtual environment with twice-daily check-ins
 
-## Hypotheses and validation approach (Diana & Matt)
+## Hypotheses and validation approach 
 
 Hypothesis 1 – Smokers will have higher charges than non smokers
 •    Broadly, the hypothesis is correct, with the average charge for non-smokers being 8,440.66 and 32,050.23 for smokers. Visualisation using the “Quit Smoking Campaign” dashboard shows two distinct trend lines, that follow a consistent pattern unaffected by additional factors such as age or region. There is however, some noticeable overlap, where in some cases the two smoker classes, do overlap with some non-smokers paying more than their smoking counter part. Again, looking at the “Quit Smoking Campaign” dashboard, we see a possible reason for this, when we start to consider the client’s BMI as well, as resulting in a much more granular visualisation of the data, with smoking alone providing much of the additional Charges, with BMI underpinning the rest and making those who both smoke and have a high BMI having significantly higher levels of Charges than on average.
 
 Hypothesis 2 – People with a higher BMI will have higher charges
 •    All data points suggest that this hypothesis is correct, with the average Charges being 13,279, with Underweight having an average of 8,852, Normal 10,409, Overweight 10,987, Obese 15,352 and Morbidly obese 17,002. From a broader analytical question, we could look at the effects that being Underweight could have on the wider health of the clients, as the data alone shows they have fewer Charges than any other group; however, by medical standards, they could physically benefit from being of Normal weight, but that may result statistically from them having higher charges.
+
 Hypothesis 3 – Some regions will have higher levels of smoking and BMI
 •    All data points suggest that this hypothesis is correct, with the Southeast region having higher levels of both Smoking and average BMI, with the national average of BMI being 30.66, and smoking 20.49%, with the Southeast having an average BMI of 33.35 and 25% smoking, an increase of 8.77% and 22% respectively. The Southeast accounts for 27.22% of all people in the data, so statistically, the numbers can be taken as valid; however, at only 364 people, it is hard to develop a wider analysis for the region as a whole, with more information being needed about average levels of smoking and BMI across the entire region, not just the data we have on our clients.
 
 Hypothesis 4 – Young people are less likely to smoke
 •    Broadly, this hypothesis, based on the available data, is untrue; however, we lack additional data to understand the nature of why this is the case. The 18-25 bracket has a 21.31% of smokers, falling briefly in the 26-35, before rising to its highest levels with the 36-45 group, before falling to 18.31% and 18.52% respectively in the 46-55 and 56-65 groups. On paper, this can be taken at face value as seeing lower levels of smoking in general; however, it does not address the high-risk nature of smoking and its effect on general health and life expectancy. As such, it is possible to assume that those who had been smoking for an extended period of time have passed away and have been removed from the statistical analysis of this process.
 
-## Mapping business requirements to visualisations (Diana & Matt)
+## Mapping business requirements to visualisations 
 
 **Requirement 1: Profile the Customer Base**
 
@@ -92,6 +93,7 @@ Mapped to 'Age vs. Charges' (visualisation 4) and 'BMI vs. Charges' (visualisati
 To provide a tool for business users to explore the data interactively, identify high-risk customer profiles, and generate actionable insights without deep technical knowledge.
 
 Mapped to 'Interactive BMI vs. Charges Plot' (visualisation 6), which integrates multiple variables (BMI, charges, age, and smoking status) into a single, explorable interface.
+Also supported by the PowerBI dashboard
 
 ## Main data analysis libraries
 
@@ -147,6 +149,7 @@ Hypothesis 4: Charges will vary by region **(PROVEN)**
 
 
 ## Conclusions & recommendations (Diana & Matt)
+## Conclusions & recommendations 
 
 Additional data sets would have also allowed us to move into both Predictive and Prescriptive analysis, looking more towards the options and campaigns for our clients. For example, we discussed whether our goal was to improve client health, profits, or a measure of both. Both positions, however, are difficult to explore without both a broader context of health in the regions and the associated costs to those of charges. A company, for example, wanting to maximise profits in the short term may well be perfectly content to have customers smoke at an early stage of their life, knowing that they can charge significantly higher amounts, yet do not take on many, if any of the associated costs that may result in their care later in life. This, put against a company that takes a long-term client-focused approach, may well offer lower costs and monthly premiums for customers who engage in health behaviour, so lowering their BMI and stopping smoking, and as a result both interact and charge their customers in radically different ways.
 In short, given the nature of the data and with limited external context, we took time to address possible different business conditions, and this was presented in both our visualisations and dashboards to reflect potential campaigns to look at addressing both regional and broader trends in health and cost analysis, but where ultimately limited by the scope and depth of the data we had available.
@@ -179,7 +182,7 @@ BMI ranges provided by NHS.UK website
 
 ## Project Media 🖼️
 
-The header image was created by Copilot to represent human–AI collaboration. It is hosted on Rachel Fallon’s LinkedIn profile.
+The header image was created by Copilot to represent human–AI collaboration. It is hosted on Rachel Fallon’s LinkedIn profile.https://media.licdn.com/dms/image/v2/D4E16AQGhs_RRie8XAw/profile-displaybackgroundimage-shrink_350_1400/B4EZhg5by7GcAY-/0/1753972326982?e=1762387200&v=beta&t=YZKH32qYFaO_mb401qru40kGNmlCB7pe0w43oRAXxng
 
 ## Acknowledgements
 
