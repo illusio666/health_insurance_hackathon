@@ -22,22 +22,20 @@ The team was tasked with:
 The dataset was largely clean, requiring minimal preprocessing. One duplicate row was removed. No null values were present.
 
 ## Data Preparation Summary 🧹 
-
 The data architect performed the following transformations:
 - New columns added:
-    - Age ranges (18–25, 26–35, etc.)
-    - BMI categories (underweight to morbidly obese)
-    - Family status (0 = no children, 1+ = has children)
+- Age ranges (18–25, 26–35, etc.)
+- BMI categories (underweight to morbidly obese)
+- Family status (0 = no children, 1+ = has children)
 - Formatting:
-    - Column names capitalised
-    - BMI rounded to 1 decimal place; charges to 2 decimals
-    - Output:
-    - Two transformed files were created to support visualisation in VS Code and Power BI
+- Column names capitalised
+- BMI rounded to 1 decimal place; charges to 2 decimals
+- Output:
+- Two transformed files were created to support visualisation in VS Code and Power BI
 
 Note: Ethnicity data was not available. Standard BMI ranges were used, though real-world application would require adjustment for ethnic-specific risk thresholds.
 
 ## Project Approach 🧠 
-
 - Roles were agreed at project start
 - Dataset was selected collaboratively to ensure all work was original
 - Power BI was chosen for dashboarding due to its accessibility and familiarity
@@ -56,7 +54,7 @@ Note: Ethnicity data was not available. Standard BMI ranges were used, though re
 
 ## Dashboard design (Matt)
 
-## Conclusions & recommendations (Diana & Matt)
+## Conclusions & recommendations
 
 ## Ethical Considerations ✅ 
 
@@ -66,16 +64,3 @@ Note: Ethnicity data was not available. Standard BMI ranges were used, though re
 ## Project Media 🖼️ 
 
 The header image was created by Copilot to represent human–AI collaboration. It is hosted on Rachel Fallon’s LinkedIn profile.
-
-✅ Recommended Best Practice Additions
-To meet full README standards, consider adding:
-
-- Usage guide (how to run notebooks or view dashboards)
-- Folder structure overview (brief explanation of repo layout)
-- License (even if educational, a placeholder license is good practice)
-- Contributing guidelines (if future collaboration is expected)
-
-
-
-
-Image is an original creation and hosted here <https://media.licdn.com/dms/image/v2/D4E16AQGhs_RRie8XAw/profile-displaybackgroundimage-shrink_350_1400/B4EZhg5by7GcAY-/0/1753972326982?e=1762387200&v=beta&t=YZKH32qYFaO_mb401qru40kGNmlCB7pe0w43oRAXxng>
