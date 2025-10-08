@@ -67,6 +67,29 @@ Hypothesis 4 – Young people are less likely to smoke
 
 ## Mapping business requirements to visualisations (Diana & Matt)
 
+**Requirement 1: Profile the Customer Base**
+
+To understand the demographic and health characteristics of the existing customer portfolio for market segmentation and targeted product development.
+
+Mapped to 'Distribution of Key Metrics' (visualisation 1), which breaks down the customer base by age, BMI, smoking status, and region.
+
+**Requirement 2: Identify Key Drivers of Insurance Costs**
+
+To determine which customer attributes have the most significant impact on insurance charges, enabling more accurate pricing and risk assessment.
+
+Mapped to 'Average Charges by Key Metrics' (visualisation 2) and 'Box Plot of Charges by Smoker Status' (visualisation 3), which quantify the financial impact of each variable, with a particular focus on the high cost associated with smoking.
+
+**Requirement 3: Analyse the Interaction Between Risk Factors**
+
+To understand how different risk factors combine and compound to influence charges, allowing for the creation of more sophisticated and fairer pricing models.
+
+Mapped to 'Age vs. Charges' (visualisation 4) and 'BMI vs. Charges' (visualisation 5), which reveal how factors like smoking interact with age and BMI to amplify costs.
+
+**Requirement 4: Enable Dynamic Data Exploration for Deeper Insights**
+
+To provide a tool for business users to explore the data interactively, identify high-risk customer profiles, and generate actionable insights without deep technical knowledge.
+
+Mapped to 'Interactive BMI vs. Charges Plot' (visualisation 6), which integrates multiple variables (BMI, charges, age, and smoking status) into a single, explorable interface.
 
 ## Main data analysis libraries
 
