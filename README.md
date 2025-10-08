@@ -137,15 +137,14 @@ Hypothesis 2: People with higher BMI will have higher charges **(PROVEN)**
 
 <img width="500" height="358" alt="image" src="https://github.com/user-attachments/assets/4d76c950-4d98-4997-b7dd-50282d0f4b12" />
 
+Hypothesis 3: Some regions will have higher levels of smoking and BMI **(PROVEN)**
 
-Hypothesis 3: Charges increase with age **(PROVEN)**
+<img width="1461" height="846" alt="image" src="https://github.com/user-attachments/assets/f8b22f23-68cb-4613-95ed-153e8c7f4de6" />
 
-<img width="514" height="317" alt="image" src="https://github.com/user-attachments/assets/073d0d9c-b951-4f4f-bdab-9054b9b0a964" />
+Hypothesis 4: Young people are less likely to smoke **(PROVEN)**
 
+<img width="1465" height="842" alt="image" src="https://github.com/user-attachments/assets/3e3dfebc-041d-47c3-973e-7caf353fc64d" />
 
-Hypothesis 4: Charges will vary by region **(PROVEN)**
-
-<img width="485" height="321" alt="image" src="https://github.com/user-attachments/assets/858e693c-848e-4434-878e-ea27ccf712a5" />
 
 
 ## Conclusions & recommendations 
