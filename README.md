@@ -73,6 +73,8 @@ To understand the demographic and health characteristics of the existing custome
 
 Mapped to 'Distribution of Key Metrics' (visualisation 1), which breaks down the customer base by age, BMI, smoking status, and region.
 
+<img width="1015" height="725" alt="image" src="https://github.com/user-attachments/assets/598b3c25-4223-4606-b275-ec143c3acc37" />
+
 **Requirement 2: Identify Key Drivers of Insurance Costs**
 
 To determine which customer attributes have the most significant impact on insurance charges, enabling more accurate pricing and risk assessment.
@@ -121,6 +123,28 @@ It was decided to create 4 tabs - an overview 'Regional Manager Dashboard' which
 ## Unfixed bugs
 
 There were no unfixed bugs.
+
+## Results
+
+Hypothesis 1: Smokers will have higher charges **(PROVEN)**
+
+<img width="513" height="321" alt="image" src="https://github.com/user-attachments/assets/dee711c5-63e4-4589-8617-252eba9283c5" />
+
+
+Hypothesis 2: People with higher BMI will have higher charges **(PROVEN)**
+
+<img width="500" height="358" alt="image" src="https://github.com/user-attachments/assets/4d76c950-4d98-4997-b7dd-50282d0f4b12" />
+
+
+Hypothesis 3: Charges increase with age **(PROVEN)**
+
+<img width="514" height="317" alt="image" src="https://github.com/user-attachments/assets/073d0d9c-b951-4f4f-bdab-9054b9b0a964" />
+
+
+Hypothesis 4: Charges will vary by region **(PROVEN)**
+
+<img width="485" height="321" alt="image" src="https://github.com/user-attachments/assets/858e693c-848e-4434-878e-ea27ccf712a5" />
+
 
 ## Conclusions & recommendations (Diana & Matt)
 
