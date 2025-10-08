@@ -148,7 +148,6 @@ Hypothesis 4: Charges will vary by region **(PROVEN)**
 <img width="485" height="321" alt="image" src="https://github.com/user-attachments/assets/858e693c-848e-4434-878e-ea27ccf712a5" />
 
 
-## Conclusions & recommendations (Diana & Matt)
 ## Conclusions & recommendations 
 
 Additional data sets would have also allowed us to move into both Predictive and Prescriptive analysis, looking more towards the options and campaigns for our clients. For example, we discussed whether our goal was to improve client health, profits, or a measure of both. Both positions, however, are difficult to explore without both a broader context of health in the regions and the associated costs to those of charges. A company, for example, wanting to maximise profits in the short term may well be perfectly content to have customers smoke at an early stage of their life, knowing that they can charge significantly higher amounts, yet do not take on many, if any of the associated costs that may result in their care later in life. This, put against a company that takes a long-term client-focused approach, may well offer lower costs and monthly premiums for customers who engage in health behaviour, so lowering their BMI and stopping smoking, and as a result both interact and charge their customers in radically different ways.
