@@ -1,87 +1,81 @@
 # ![AI logo](https://media.licdn.com/dms/image/v2/D4E16AQGhs_RRie8XAw/profile-displaybackgroundimage-shrink_350_1400/B4EZhg5by7GcAY-/0/1753972326982?e=1762387200&v=beta&t=YZKH32qYFaO_mb401qru40kGNmlCB7pe0w43oRAXxng)
 
-## Health Insurance analysis
+# Health Insurance Analysis
+This repository contains the output of a collaborative educational project focused on analysing health insurance data. The team worked together to clean, transform, and visualise the dataset to uncover insights into how personal and geographic factors influence insurance charges.
 
-This repository has been created as part of an educational team activity to obtain, clean and analyse data relating to health insurance, to provide meaningful findings from the data. The team allocated roles and worked collaboratively to ensure an end deliverable that met the brief:
+## Team Roles 👥
+- Project Manager: Rachel Fallon
+- Data Architect: Eden Elvin
+- Data Analyst (VS Code): Diana Milligan
+- Data Analyst (Power BI): Matt Jacobs
 
-* Project Manager: Rachel Fallon
-* Data Archtect: Eden Elvin
-* Data Analyst-VSCode: Diana Milligan
-* Data Analyst-PowerBI: Matt Jacobs
+## Business Objective 📊
+The team was tasked with:
+- Analysing healthcare insurance data to understand cost drivers
+- Exploring correlations between personal attributes and charges
+- Creating interactive dashboards and predictive visuals to support decision-making
 
-The brief is to provide basic descriptive statistics with the cleaned/transformed data, to provide correlation analysis and provide predictive/interactive visualisations.
+## Dataset Overview 📁 
+- Source: Kaggle – Healthcare Insurance Dataset
+- Format: CSV
+- Fields include: age, sex, BMI, number of children, smoker status, region, and insurance charges
+The dataset was largely clean, requiring minimal preprocessing. One duplicate row was removed. No null values were present.
 
-## Data Set content
+## Data Preparation Summary 🧹 
+The data architect performed the following transformations:
+- New columns added:
+- Age ranges (18–25, 26–35, etc.)
+- BMI categories (underweight to morbidly obese)
+- Family status (0 = no children, 1+ = has children)
+- Formatting:
+- Column names capitalised
+- BMI rounded to 1 decimal place; charges to 2 decimals
+- Output:
+- Two transformed files were created to support visualisation in VS Code and Power BI
 
-* The publically-available data was obtained from Kaggle (<https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance>)
+Note: Ethnicity data was not available. Standard BMI ranges were used, though real-world application would require adjustment for ethnic-specific risk thresholds.
 
-< EDEN TO COMPLETE "Describe your dataset and the steps taken to be ready for analysis" >
+## Project Approach 🧠 
+- Roles were agreed at project start
+- Dataset was selected collaboratively to ensure all work was original
+- Power BI was chosen for dashboarding due to its accessibility and familiarity
+- Hypotheses were defined to guide transformation logic
+- Tasks were structured as user stories, labelled and timeboxed
+- Stories were bulk-uploaded to GitHub using a CSV-to-issue workflow (repo link)
+- The team worked in a virtual environment with twice-daily check-ins
 
-People with a South Asian, Chinese, other Asian, Middle Eastern, Black African or African–Caribbean background are prone to central adiposity and their cardiometabolic risk occurs at lower BMI, but ethnicity data is not available in this dataset. Therefore the 'standard' BMI ranges have been used, but would need improvement in the data set to be used in real life.
+## Hypotheses and validation approach (Diana & Matt)
 
-## Business Requirements
+## Mapping business requirements to visualisations (Diana & Matt)
 
-* The brief was as follows:
-Analyse healthcare insurance data to understand how personal attributes and geographic factors influence insurance costs. Develop interactive dashboards to provide insights and predictive models for estimating healthcare expenses based on personal and geographic attributes.
+## Main data analysis libraries (Diana)
 
-## Hypotheses and validation approach
+## Analysis techniques used (Diana & Matt)
 
-< Diana to complete for VS Code>
+## Dashboard design (Matt)
 
-< Matt to complete for Power BI>
+## Conclusions & recommendations
 
-## Project Plan
+## Ethical Considerations ✅ 
 
-* Firstly, the roles mentioned in the intro were agreed by the team
-* Team chose a data set that none had done before, so all steps would be done from scratch
-* Team opted to use PowerBI as their dashboarding tool with a view to it being the more widely used of the off-the-shelf visualisation tools and for its user-familiarity for anyone with MS Office experience
-* Team collectively reviewed the chosen dataset, and collaboratively agreed what might be good hypotheses and therefore how any data transformation might need to be structured to support them e.g. grouping customer BMI into standard classifications.
-* The PM then took the high level steps (obtain, clean, transform,load,analyse, create visualisations) and broke them down to individual tasks, converted into user stories and allocated to the appropriate role
-* Milestones (timeslots) and labels were then added to the user stories
-* All user stories were created in standard format in CSV and then uploaded to GitHub via an adaptation of the following repo - <https://github.com/FaraiB/csv-to-github/tree/main>
-* All team members 'sat' together in a virtual environment for the duration, with twice-daily calls to track progress and solve any problems/blockers.
+- No personally identifiable data was present; GDPR compliance was not required
+- The dataset used binary sex labels; these were retained as categorical fields to allow future expansion to broader gender constructs
 
-## Mapping the business requirements to the data visualisations
+## Project Media 🖼️ 
 
-<< Diana to complete for VS Code>>
-<< Matt to complete for PowerBI>>
+The header image was created by Copilot to represent human–AI collaboration. It is hosted on Rachel Fallon’s LinkedIn profile.
 
-## Analysis techniques used
 
-<< Diana to complete for VS Code>>
-<< Matt to complete for PowerBI>>
 
-## Ethical considerations
+✅ Recommended Best Practice Additions
+To meet full README standards, consider adding:
 
-* The dataset used did not contain any customer-identifying data and so GDPR was not a factor
-* The dataset used 'sex' as opposed to 'gender' and so while a simple male/female grouping existed, consideration was given as to whether this should be a True/False ("if Sex1 then True else False"), we did consider whether this construct MIGHT change in the future, in the event that wider gender might be considered. Therefore this was left as categorical for the sake of future proofing
+- Usage guide (how to run notebooks or view dashboards)
+- Folder structure overview (brief explanation of repo layout)
+- License (even if educational, a placeholder license is good practice)
+- Contributing guidelines (if future collaboration is expected)
 
-## Dashboard design
 
-<< Matt to complete>>
 
-## Unfixed bugs
-
-<< Rach to complete in the event that it's needed>>
-
-## Development roadmap
-
-<< Rf to compelte>>
-
-## Main data analysis libraries
-
-<< Diana to complete. "Here you should list the libraries you used in the project and provide an example(s) of how you used these libraries">>
-
-## Credits
-
-* CI
-* Kaggle
-* FaraiB's github
-
-## Content
-
-* The image used for the project header was a creation of Copilots to represent the synergy of human and AI, and is linked on Rachel Fallon's LinkedIn profile
-
-## Media
 
 Image is an original creation and hosted here <https://media.licdn.com/dms/image/v2/D4E16AQGhs_RRie8XAw/profile-displaybackgroundimage-shrink_350_1400/B4EZhg5by7GcAY-/0/1753972326982?e=1762387200&v=beta&t=YZKH32qYFaO_mb401qru40kGNmlCB7pe0w43oRAXxng>
