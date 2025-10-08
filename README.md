@@ -22,20 +22,22 @@ The team was tasked with:
 The dataset was largely clean, requiring minimal preprocessing. One duplicate row was removed. No null values were present.
 
 ## Data Preparation Summary 🧹 
+
 The data architect performed the following transformations:
 - New columns added:
-- Age ranges (18–25, 26–35, etc.)
-- BMI categories (underweight to morbidly obese)
-- Family status (0 = no children, 1+ = has children)
+    - Age ranges (18–25, 26–35, etc.)
+    - BMI categories (underweight to morbidly obese)
+    - Family status (0 = no children, 1+ = has children)
 - Formatting:
-- Column names capitalised
-- BMI rounded to 1 decimal place; charges to 2 decimals
-- Output:
-- Two transformed files were created to support visualisation in VS Code and Power BI
+    - Column names capitalised
+    - BMI rounded to 1 decimal place; charges to 2 decimals
+    - Output:
+    - Two transformed files were created to support visualisation in VS Code and Power BI
 
 Note: Ethnicity data was not available. Standard BMI ranges were used, though real-world application would require adjustment for ethnic-specific risk thresholds.
 
 ## Project Approach 🧠 
+
 - Roles were agreed at project start
 - Dataset was selected collaboratively to ensure all work was original
 - Power BI was chosen for dashboarding due to its accessibility and familiarity
@@ -54,7 +56,7 @@ Note: Ethnicity data was not available. Standard BMI ranges were used, though re
 
 ## Dashboard design (Matt)
 
-## Conclusions & recommendations
+## Conclusions & recommendations (Diana & Matt)
 
 ## Ethical Considerations ✅ 
 
@@ -64,8 +66,6 @@ Note: Ethnicity data was not available. Standard BMI ranges were used, though re
 ## Project Media 🖼️ 
 
 The header image was created by Copilot to represent human–AI collaboration. It is hosted on Rachel Fallon’s LinkedIn profile.
-
-
 
 ✅ Recommended Best Practice Additions
 To meet full README standards, consider adding:
