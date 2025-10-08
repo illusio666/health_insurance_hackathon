@@ -68,7 +68,21 @@ Hypothesis 4 – Young people are less likely to smoke
 ## Mapping business requirements to visualisations (Diana & Matt)
 
 
-## Main data analysis libraries (Diana)
+## Main data analysis libraries
+
+**Dataset:** Healthcare Insurance
+
+**Dataset source:** https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance
+
+**Libraries used:**
+
+- pandas (for loading, cleaning, and manipulating the dataset in a DataFrame)
+- numpy (for performing numerical operations, such as calculating the mean for the bar plots)
+- matplotlib.pyplot (for creating and customising the basic structure of the static plots, like figures and axes)
+- seaborn (for creating statistically-focused and aesthetically pleasing visualisations on top of matplotlib)
+- plotly.express (for creating rich, interactive visualisations that the user can explore)
+- warnings (to suppress and manage non-critical warning messages that can clutter the output)
+
 
 
 ## Analysis techniques used 
